@@ -1,0 +1,3941 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportPress v1.0.31\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-12-18 10:30:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:13
+#: archive-message.php:15
+#: header.php:159
+#: includes/theme-custom-post-types.php:113
+#@ woothemes
+msgid "Messages"
+msgstr ""
+
+#: 404.php:14
+#, php-format
+#@ woothemes
+msgid "There are currently no messages. To create your first message, <a href=\"%s\">click here</a>."
+msgstr ""
+
+#: 404.php:20
+#: archive-ticket.php:14
+#: header.php:143
+#: homepage-agent.php:26
+#: includes/theme-custom-post-types.php:50
+#@ woothemes
+msgid "Tickets"
+msgstr ""
+
+#: 404.php:21
+#, php-format
+#@ woothemes
+msgid "There are currently no tickets. To create your first ticket, <a href=\"%s\">click here</a>."
+msgstr ""
+
+#: 404.php:34
+#@ woothemes
+msgid "Uh oh - you broke it!"
+msgstr ""
+
+#: 404.php:35
+#@ woothemes
+msgid "The page you are looking for cannot be found. Please notify the site admin if you have found a broken link"
+msgstr ""
+
+#: archive-ticket.php:23
+#: taxonomy.php:34
+#@ woothemes
+msgid " &mdash; assigned to "
+msgstr ""
+
+#: archive-knowledgebase.php:10
+#: archive.php:11
+#: includes/theme-functions.php:1003
+#: template-blog.php:15
+#@ woothemes
+msgid "Subscribe"
+msgstr ""
+
+#: archive.php:23
+#@ woothemes
+msgid "Archive by Author"
+msgstr ""
+
+#: archive.php:26
+#@ woothemes
+msgid "Tag Archives:"
+msgstr ""
+
+#: includes/theme-comments.php:37
+#: includes/theme-comments.php:107
+#: includes/theme-functions.php:775
+#: includes/widgets/widget-woo-agents.php:30
+#: loop-knowledgebase.php:11
+#: loop-messages.php:13
+#: single-knowledgebase.php:20
+#: single-message.php:40
+#: template-staff.php:41
+#: template-staff.php:42
+#@ woothemes
+msgid " ago"
+msgstr ""
+
+#: loop.php:20
+#@ woothemes
+msgid "Read More..."
+msgstr ""
+
+#: loop.php:28
+#: single-knowledgebase.php:40
+#: single-message.php:104
+#: single.php:39
+#@ woothemes
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: author.php:18
+#, php-format
+#@ woothemes
+msgid "%s hasn't added a biography yet."
+msgstr ""
+
+#: author.php:24
+#, php-format
+#@ woothemes
+msgid "Follow %s on Twitter"
+msgstr ""
+
+#: author.php:27
+#, php-format
+#@ woothemes
+msgid "Chat on Aim (%s)"
+msgstr ""
+
+#: author.php:30
+#@ woothemes
+msgid "Chat on Jabber / Gtalk"
+msgstr ""
+
+#: author.php:33
+#, php-format
+#@ woothemes
+msgid "Chat on Yahoo (%s)"
+msgstr ""
+
+#: comments.php:9
+#: single-message-comments.php:6
+#: single-ticket-comments.php:8
+#@ woothemes
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+#@ woothemes
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:23
+#@ woothemes
+msgid "One Response"
+msgstr ""
+
+#: comments.php:23
+#@ woothemes
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:23
+#: includes/theme-comments.php:200
+#: includes/theme-comments.php:210
+#@ woothemes
+msgid "to"
+msgstr ""
+
+#: comments.php:40
+#@ woothemes
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:52
+#@ woothemes
+msgid "No comments yet."
+msgstr ""
+
+#: comments.php:56
+#@ woothemes
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:82
+#, php-format
+#@ woothemes
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:76
+#: single-message-comments.php:38
+#: single-ticket-comments.php:40
+#@ woothemes
+msgid "You must be"
+msgstr ""
+
+#: comments.php:76
+#: single-message-comments.php:38
+#: single-ticket-comments.php:40
+#@ woothemes
+msgid "logged in"
+msgstr ""
+
+#: comments.php:76
+#: single-message-comments.php:38
+#: single-ticket-comments.php:40
+#@ woothemes
+msgid "to post a comment."
+msgstr ""
+
+#: header.php:119
+#@ woothemes
+msgid "Logout"
+msgstr ""
+
+#: comments.php:91
+#: functions/admin-shortcodes.php:1386
+#: single-message-comments.php:57
+#: template-contact.php:152
+#@ woothemes
+msgid "Name"
+msgstr ""
+
+#: comments.php:91
+#: comments.php:97
+#@ woothemes
+msgid "Required"
+msgstr ""
+
+#: comments.php:97
+#@ woothemes
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:103
+#: template-edit-profile.php:65
+#@ woothemes
+msgid "Website"
+msgstr ""
+
+#: comments.php:110
+#@ woothemes
+msgid "You can use these tags"
+msgstr ""
+
+#: comments.php:116
+#@ woothemes
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:12
+#@ woothemes
+msgid "All Rights Reserved."
+msgstr ""
+
+#: footer.php:22
+#@ woothemes
+msgid "Designed by"
+msgstr ""
+
+#: includes/widgets/widget-woo-agents.php:50
+#: includes/widgets/widget-woo-attachments.php:64
+#: includes/widgets/widget-woo-mytickets.php:71
+#: includes/widgets/widget-woo-tickettags.php:46
+#: includes/widgets/widget.woo-kb-cats.php:62
+#: includes/widgets/widget.woo-kb-tags.php:41
+#@ woothemes
+msgid "Title:"
+msgstr ""
+
+#: functions/admin-express-functions-deprecated.php:198
+#: functions/admin-express-functions.php:214
+#@ woothemes
+msgid "You are not allowed to upload files to this site."
+msgstr ""
+
+#: functions/admin-express-functions-deprecated.php:224
+#: functions/admin-express-functions.php:240
+#, php-format
+#@ woothemes
+msgid "Could not write file %1$s (%2$s)"
+msgstr ""
+
+#: functions/admin-functions.php:1632
+#@ woothemes
+msgid "Search Results"
+msgstr ""
+
+#: functions/admin-functions.php:1633
+#@ woothemes
+msgid "Author Archives"
+msgstr ""
+
+#: functions/admin-functions.php:1636
+#@ woothemes
+msgid "Category Archive"
+msgstr ""
+
+#: functions/admin-functions.php:1637
+#: functions/admin-functions.php:1642
+#@ woothemes
+msgid " Archive"
+msgstr ""
+
+#: functions/admin-functions.php:1638
+#@ woothemes
+msgid "Daily Archive"
+msgstr ""
+
+#: functions/admin-functions.php:1639
+#@ woothemes
+msgid "Monthly Archive"
+msgstr ""
+
+#: functions/admin-functions.php:1640
+#@ woothemes
+msgid "Yearly Archive"
+msgstr ""
+
+#: functions/admin-functions.php:1641
+#@ woothemes
+msgid "Tag Archive"
+msgstr ""
+
+#: functions/admin-functions.php:2688
+#@ woothemes
+msgid "You are here:"
+msgstr ""
+
+#: functions/admin-functions.php:2691
+#@ woothemes
+msgid "Home"
+msgstr ""
+
+#: functions/admin-functions.php:2856
+#@ woothemes
+msgid "g:i a"
+msgstr ""
+
+#: functions/admin-functions.php:2859
+#, php-format
+#@ woothemes
+msgid "Minute %1$s"
+msgstr ""
+
+#: functions/admin-functions.php:2859
+#@ woothemes
+msgid "i"
+msgstr ""
+
+#: functions/admin-functions.php:2862
+#@ woothemes
+msgid "g a"
+msgstr ""
+
+#: functions/admin-functions.php:2873
+#: functions/admin-functions.php:2879
+#: functions/admin-functions.php:2884
+#: functions/admin-functions.php:2889
+#@ woothemes
+msgid "Y"
+msgstr ""
+
+#: functions/admin-functions.php:2874
+#: functions/admin-functions.php:2885
+#@ woothemes
+msgid "F"
+msgstr ""
+
+#: functions/admin-functions.php:2875
+#@ woothemes
+msgid "j"
+msgstr ""
+
+#: functions/admin-functions.php:2880
+#, php-format
+#@ woothemes
+msgid "Week %1$s"
+msgstr ""
+
+#: functions/admin-functions.php:2880
+#@ woothemes
+msgid "W"
+msgstr ""
+
+#: functions/admin-functions.php:2896
+#, php-format
+#@ woothemes
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: functions/admin-functions.php:2900
+#@ woothemes
+msgid "404 Not Found"
+msgstr ""
+
+#: functions/admin-functions.php:3141
+#@ woothemes
+msgid "WooThemes"
+msgstr ""
+
+#: functions/admin-backup.php:133
+#: functions/admin-functions.php:3152
+#: functions/admin-interface.php:190
+#@ woothemes
+msgid "Theme Options"
+msgstr ""
+
+#: functions/admin-backup.php:137
+#: functions/admin-framework-settings.php:59
+#: functions/admin-functions.php:3156
+#@ woothemes
+msgid "Sidebar Manager"
+msgstr ""
+
+#: functions/admin-backup.php:139
+#: functions/admin-functions.php:3163
+#: functions/admin-interface.php:195
+#@ woothemes
+msgid "Framework Settings"
+msgstr ""
+
+#: functions/admin-functions.php:3166
+#@ woothemes
+msgid "Update Framework"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:51
+#@ woothemes
+msgid "WooFramework Internal Container"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:155
+#@ woothemes
+msgid "Upload"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:181
+#@ woothemes
+msgid "View File"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:316
+#@ woothemes
+msgid "Gallery"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:316
+#@ woothemes
+msgid "Previously Uploaded"
+msgstr ""
+
+#: functions/admin-shortcodes.php:974
+#@ woothemes
+msgid "Message via the contact form"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1264
+#@ woothemes
+msgid "Please enter your name"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1265
+#@ woothemes
+msgid "Please enter your email address (and please make sure it's valid)"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1266
+#@ woothemes
+msgid "Please enter your message"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1331
+#: functions/admin-shortcodes.php:1337
+#: template-contact.php:58
+#: template-contact.php:65
+#@ woothemes
+msgid "From: "
+msgstr ""
+
+#: functions/admin-shortcodes.php:1331
+#: functions/admin-shortcodes.php:1337
+#: template-contact.php:58
+#@ woothemes
+msgid "Reply-To: "
+msgstr ""
+
+#: functions/admin-shortcodes.php:1356
+#: template-contact.php:126
+#@ woothemes
+msgid "Your email was successfully sent."
+msgstr ""
+
+#: functions/admin-shortcodes.php:1362
+#@ woothemes
+msgid "There were one or more errors while submitting the form."
+msgstr ""
+
+#: functions/admin-shortcodes.php:1367
+#: template-contact.php:145
+#@ woothemes
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1395
+#: homepage-guest.php:223
+#: single-message-comments.php:62
+#: template-contact.php:159
+#@ woothemes
+msgid "Email"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1404
+#: includes/theme-custom-post-types.php:114
+#: single-message.php:86
+#: template-contact.php:166
+#@ woothemes
+msgid "Message"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1522
+#: template-contact.php:172
+#@ woothemes
+msgid "Send a copy of this email to yourself"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1529
+#: template-contact.php:173
+#@ woothemes
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#: functions/admin-shortcodes.php:975
+#: includes/theme-functions.php:1014
+#: includes/theme-functions.php:1023
+#: template-contact.php:174
+#@ woothemes
+msgid "Submit"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1842
+#: functions/admin-shortcodes.php:1877
+#: functions/admin-shortcodes.php:1887
+#, php-format
+#@ woothemes
+msgid "My %s Profile"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1856
+#@ woothemes
+msgid "Subscribe to our RSS feed"
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:52
+#@ woothemes
+msgid "Customize the Shortcode"
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:67
+#@ woothemes
+msgid "Ninja Trouble"
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:70
+#, php-format
+#@ woothemes
+msgid "Your version of the WooFramework (%s) does not yet support shortcodes. Shortcodes were introduced with version %s of the framework."
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:72
+#: functions/js/shortcode-generator/dialog.php:86
+#@ woothemes
+msgid "What to do now?"
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:74
+#@ woothemes
+msgid "Upgrading your theme, or rather the WooFramework portion of it, will do the trick."
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:76
+#, php-format
+#@ woothemes
+msgid "The framework is a collection of functionality that all WooThemes have in common. In most cases you can update the framework even if you have modified your theme, because the framework resides in a separate location (under %s)."
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:78
+#, php-format
+#@ woothemes
+msgid "There's a tutorial on how to do this on WooThemes.com: %sHow to upgradeyour theme%s."
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:80
+#@ woothemes
+msgid "<strong>Remember:</strong> Every Ninja has a backup plan. Safe or not, always backup your theme before you update it or make changes to it."
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:84
+#@ woothemes
+msgid "Looks like your active theme is not from WooThemes. The shortcode generator only works with themes from WooThemes."
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:88
+#@ woothemes
+msgid "Pick a fight: (1) If you already have a theme from WooThemes, install and activate it or (2) if you don't yet have one of the awesome WooThemes head over to the <a href=\"http://www.woothemes.com/themes/\" target=\"_blank\" title=\"WooThemes Gallery\">WooThemes Gallery</a> and get one."
+msgstr ""
+
+#: header.php:136
+#@ woothemes
+msgid "Dashboard"
+msgstr ""
+
+#: header.php:95
+#@ woothemes
+msgid "Forgot password?"
+msgstr ""
+
+#: header.php:96
+#@ woothemes
+msgid "Register"
+msgstr ""
+
+#: header.php:82
+#: header.php:83
+#: homepage-guest.php:218
+#@ woothemes
+msgid "Username"
+msgstr ""
+
+#: header.php:85
+#: header.php:86
+#: homepage-guest.php:229
+#@ woothemes
+msgid "Password"
+msgstr ""
+
+#: header.php:93
+#@ woothemes
+msgid "Go"
+msgstr ""
+
+#: includes/theme-install.php:131
+#@ woothemes
+msgid "Edit Profile"
+msgstr ""
+
+#: archive-message.php:11
+#: includes/theme-custom-post-types.php:119
+#: includes/theme-emails.php:352
+#@ woothemes
+msgid "New Message"
+msgstr ""
+
+#: archive-knowledgebase.php:14
+#: archive-message.php:19
+#: archive-ticket.php:45
+#: homepage-agent.php:30
+#: homepage-client.php:17
+#: homepage-guest.php:111
+#@ woothemes
+msgid "Search"
+msgstr ""
+
+#: includes/theme-comments.php:455
+#, php-format
+#@ woothemes
+msgid "Status: <strong>%s</strong> &rarr; <strong>%s</strong>"
+msgstr ""
+
+#: header.php:164
+#@ woothemes
+msgid "Resolved"
+msgstr ""
+
+#: includes/theme-emails.php:311
+#: includes/theme-emails.php:382
+#@ woothemes
+msgid "Comment"
+msgstr ""
+
+#: includes/theme-comments.php:51
+#: includes/theme-comments.php:118
+#: includes/theme-custom-post-types.php:54
+#: includes/theme-custom-post-types.php:86
+#: includes/theme-custom-post-types.php:117
+#: single-message.php:21
+#: single-ticket.php:32
+#@ woothemes
+msgid "Edit"
+msgstr ""
+
+#: includes/theme-comments.php:56
+#: includes/theme-comments.php:123
+#@ woothemes
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/theme-comments.php:129
+#@ woothemes
+msgid "<mark>File</mark> was attached "
+msgstr ""
+
+#: includes/theme-comments.php:190
+#: includes/theme-custom-post-types.php:291
+#: single-ticket-comments.php:73
+#: single-ticket-comments.php:146
+#: template-new-ticket.php:107
+#: template-new-ticket.php:208
+#@ woothemes
+msgid "Priority"
+msgstr ""
+
+#: includes/theme-comments.php:192
+#: includes/theme-custom-post-types.php:290
+#: loop-tickets.php:4
+#: single-ticket-comments.php:104
+#: single-ticket-comments.php:161
+#: template-new-ticket.php:137
+#@ woothemes
+msgid "Status"
+msgstr ""
+
+#: includes/theme-comments.php:200
+#: includes/theme-comments.php:210
+#@ woothemes
+msgid "changed from"
+msgstr ""
+
+#: includes/theme-comments.php:397
+#: includes/theme-comments.php:407
+#: single-ticket-comments.php:90
+#: single-ticket-comments.php:132
+#: single-ticket.php:71
+#@ woothemes
+msgid "N/A"
+msgstr ""
+
+#: includes/theme-comments.php:207
+#: includes/theme-comments.php:208
+#: includes/theme-comments.php:340
+#: includes/theme-comments.php:342
+#: single-ticket-comments.php:60
+#: single-ticket.php:61
+#: template-new-ticket.php:94
+#@ woothemes
+msgid "Anybody"
+msgstr ""
+
+#: includes/theme-comments.php:210
+#@ woothemes
+msgid "Assigned user"
+msgstr ""
+
+#: includes/theme-comments.php:213
+#: includes/widgets/widget.woo-kb-tags.php:15
+#@ woothemes
+msgid "Tags"
+msgstr ""
+
+#: includes/theme-comments.php:213
+#@ woothemes
+msgid "were updated."
+msgstr ""
+
+#: includes/theme-comments.php:217
+#@ woothemes
+msgid "File"
+msgstr ""
+
+#: includes/theme-comments.php:217
+#@ woothemes
+msgid "was attached"
+msgstr ""
+
+#: includes/theme-comments.php:344
+#, php-format
+#@ woothemes
+msgid "Owner: <strong>%s</strong> &rarr; <strong>%s</strong>"
+msgstr ""
+
+#: includes/theme-comments.php:378
+#, php-format
+#@ woothemes
+msgid "Priority: <strong>%s</strong> &rarr; <strong>%s</strong>"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:48
+#: includes/theme-custom-post-types.php:51
+#@ woothemes
+msgid "Ticket"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:52
+#: includes/theme-custom-post-types.php:84
+#: includes/theme-custom-post-types.php:115
+#@ woothemes
+msgid "Add New"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:53
+#@ woothemes
+msgid "Add New Ticket"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:55
+#@ woothemes
+msgid "Edit Ticket"
+msgstr ""
+
+#: header.php:178
+#: includes/theme-custom-post-types.php:56
+#: includes/theme-emails.php:196
+#: includes/theme-emails.php:219
+#@ woothemes
+msgid "New Ticket"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:57
+#@ woothemes
+msgid "View Tickets"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:58
+#@ woothemes
+msgid "View Ticket"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:59
+#@ woothemes
+msgid "Search Tickets"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:60
+#@ woothemes
+msgid "No tickets found"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:61
+#@ woothemes
+msgid "No tickets found in trash"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:62
+#@ woothemes
+msgid "Parent Tickets"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:64
+#@ woothemes
+msgid "This is where you can create new tickets for your site. Tickets can also be created from the front-end."
+msgstr ""
+
+#: includes/theme-custom-post-types.php:116
+#@ woothemes
+msgid "Add New Message"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:118
+#@ woothemes
+msgid "Edit Message"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:120
+#@ woothemes
+msgid "View Messages"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:121
+#@ woothemes
+msgid "View Message"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:122
+#@ woothemes
+msgid "Search Messages"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:123
+#@ woothemes
+msgid "No Messages found"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:124
+#@ woothemes
+msgid "No Messages found in trash"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:125
+#@ woothemes
+msgid "Parent Message"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:127
+#@ woothemes
+msgid "Messages allow discussions about the project."
+msgstr ""
+
+#: includes/theme-custom-post-types.php:134
+#@ woothemes
+msgid "messages"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:146
+#@ woothemes
+msgid "Ticket Statuses"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:147
+#: includes/theme-ticket-options.php:176
+#@ woothemes
+msgid "Ticket Status"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:148
+#@ woothemes
+msgid "Search Ticket Statuses"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:149
+#@ woothemes
+msgid "All Ticket Statuses"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:150
+#@ woothemes
+msgid "Parent Ticket Status"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:151
+#@ woothemes
+msgid "Parent Ticket Status:"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:152
+#@ woothemes
+msgid "Edit Ticket Status"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:153
+#@ woothemes
+msgid "Update Ticket Status"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:154
+#@ woothemes
+msgid "Add New Ticket Status"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:155
+#@ woothemes
+msgid "New Ticket Status"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:169
+#@ woothemes
+msgid "Ticket Priorities"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:170
+#: includes/theme-ticket-options.php:126
+#@ woothemes
+msgid "Ticket Priority"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:171
+#@ woothemes
+msgid "Search Ticket Priorities"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:172
+#@ woothemes
+msgid "All Ticket Priorities"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:173
+#@ woothemes
+msgid "Parent Ticket Priority"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:174
+#@ woothemes
+msgid "Parent Ticket Priority:"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:175
+#@ woothemes
+msgid "Edit Ticket Priority"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:176
+#@ woothemes
+msgid "Update Ticket Priority"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:177
+#@ woothemes
+msgid "Add New Ticket Priority"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:178
+#@ woothemes
+msgid "New Ticket Priority"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:213
+#: includes/theme-custom-post-types.php:214
+#: includes/widgets/widget-woo-tickettags.php:16
+#: includes/widgets/widget-woo-tickettags.php:41
+#@ woothemes
+msgid "Ticket Tags"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:215
+#@ woothemes
+msgid "Search Ticket Tags"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:216
+#@ woothemes
+msgid "All Ticket Tags"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:217
+#@ woothemes
+msgid "Parent Ticket Tag"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:218
+#@ woothemes
+msgid "Parent Ticket Tag:"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:219
+#@ woothemes
+msgid "Edit Ticket Tag"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:220
+#@ woothemes
+msgid "Update Ticket Tag"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:221
+#@ woothemes
+msgid "Add New Ticket Tag"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:222
+#@ woothemes
+msgid "New Ticket Tag"
+msgstr ""
+
+#: includes/theme-emails.php:192
+#: includes/theme-emails.php:252
+#: includes/theme-emails.php:307
+#: includes/theme-emails.php:348
+#@ woothemes
+msgid "Guest"
+msgstr ""
+
+#: includes/theme-emails.php:197
+#, php-format
+#@ woothemes
+msgid ""
+"Hi there,\n"
+"\n"
+"A new ticket has been submitted by &ldquo;%s&rdquo;. To view this ticket click the link below:\n"
+"\n"
+"%s\n"
+"\n"
+"Regards,\n"
+"%s"
+msgstr ""
+
+#: includes/theme-emails.php:259
+#@ woothemes
+msgid "Assigned to ticket"
+msgstr ""
+
+#: includes/theme-emails.php:260
+#, php-format
+#@ woothemes
+msgid ""
+"Hi there %s,\n"
+"\n"
+"It's your lucky day! A new ticket has been submitted by &ldquo;%s&rdquo; and assigned to you. To view this ticket click the link below:\n"
+"\n"
+"%s\n"
+"\n"
+"Regards,\n"
+"%s"
+msgstr ""
+
+#: includes/theme-emails.php:313
+#@ woothemes
+msgid "Ticket Updated"
+msgstr ""
+
+#: includes/theme-emails.php:314
+#, php-format
+#@ woothemes
+msgid ""
+"Hi there,\n"
+"\n"
+"Ticket #%s has been updated by &ldquo;%s&rdquo;. To view this ticket click the link below:\n"
+"\n"
+"%s\n"
+"\n"
+"Ticket updates: %s%s\n"
+"\n"
+"Regards,\n"
+"%s"
+msgstr ""
+
+#: includes/theme-emails.php:353
+#, php-format
+#@ woothemes
+msgid ""
+"Hi there,\n"
+"\n"
+"A new message has been submitted by &ldquo;%s&rdquo;. To view this message click the link below:\n"
+"\n"
+"%s\n"
+"\n"
+"Regards,\n"
+"%s"
+msgstr ""
+
+#: includes/theme-emails.php:392
+#, php-format
+#@ woothemes
+msgid ""
+"Hi there,\n"
+"\n"
+"Ticket #%s has been commented on by &ldquo;%s&rdquo;. To view this ticket click the link below:\n"
+"\n"
+"%s%s\n"
+"\n"
+"Regards,\n"
+"%s"
+msgstr ""
+
+#: includes/theme-emails.php:403
+#, php-format
+#@ woothemes
+msgid ""
+"Hi there,\n"
+"\n"
+"A message you are watching has been commented on by &ldquo;%s&rdquo;. To view this message click the link below:\n"
+"\n"
+"%s%s\n"
+"\n"
+"Regards,\n"
+"%s"
+msgstr ""
+
+#: includes/theme-emails.php:414
+#@ woothemes
+msgid "Comment on watched item"
+msgstr ""
+
+#: includes/theme-form-handlers.php:75
+#@ woothemes
+msgid "Error: Unable to create ticket."
+msgstr ""
+
+#: includes/theme-form-handlers.php:226
+#@ woothemes
+msgid "Error: Unable to create message."
+msgstr ""
+
+#: functions/admin-functions.php:2566
+#: includes/theme-functions.php:874
+#@ woothemes
+msgid "Next &rarr;"
+msgstr ""
+
+#: functions/admin-functions.php:2565
+#: includes/theme-functions.php:875
+#@ woothemes
+msgid "&larr; Previous"
+msgstr ""
+
+#: includes/theme-functions.php:952
+#@ woothemes
+msgid "on "
+msgstr ""
+
+#: header.php:209
+#: includes/theme-functions.php:972
+#@ woothemes
+msgid "Posted on"
+msgstr ""
+
+#: includes/theme-functions.php:973
+#: loop-messages.php:13
+#@ woothemes
+msgid "by"
+msgstr ""
+
+#: includes/theme-functions.php:974
+#@ woothemes
+msgid "in"
+msgstr ""
+
+#: includes/theme-functions.php:975
+#: page.php:21
+#: template-fullwidth.php:22
+#@ woothemes
+msgid "{ Edit }"
+msgstr ""
+
+#: includes/theme-functions.php:1006
+#@ woothemes
+msgid "Subscribe to our e-mail newsletter to receive updates."
+msgstr ""
+
+#: includes/theme-functions.php:1010
+#: includes/theme-functions.php:1022
+#@ woothemes
+msgid "E-mail"
+msgstr ""
+
+#: includes/theme-functions.php:1035
+#@ woothemes
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: includes/theme-functions.php:1038
+#@ woothemes
+msgid "Connect on Facebook"
+msgstr ""
+
+#: includes/theme-functions.php:1041
+#@ woothemes
+msgid "Watch on YouTube"
+msgstr ""
+
+#: includes/theme-functions.php:1044
+#@ woothemes
+msgid "See photos on Flickr"
+msgstr ""
+
+#: includes/theme-functions.php:1047
+#@ woothemes
+msgid "Connect on LinkedIn"
+msgstr ""
+
+#: includes/theme-functions.php:1050
+#@ woothemes
+msgid "Discover on Delicious"
+msgstr ""
+
+#: includes/theme-functions.php:1060
+#@ woothemes
+msgid "Related Posts:"
+msgstr ""
+
+#: includes/theme-functions.php:1092
+#@ woothemes
+msgid "Top Menu"
+msgstr ""
+
+#: includes/theme-install.php:65
+#@ woothemes
+msgid "Add a new ticket"
+msgstr ""
+
+#: includes/theme-install.php:87
+#@ woothemes
+msgid "Add a new message"
+msgstr ""
+
+#: includes/theme-install.php:88
+#@ woothemes
+msgid "Start a new discussion by posting your message below."
+msgstr ""
+
+#: includes/theme-login.php:47
+#@ woothemes
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: includes/theme-login.php:50
+#@ woothemes
+msgid "<strong>ERROR</strong>: Please enter your password."
+msgstr ""
+
+#: includes/theme-rss.php:19
+#@ woothemes
+msgid "No feed available."
+msgstr ""
+
+#: includes/theme-ticket-options.php:33
+#@ woothemes
+msgid "Ticket Information"
+msgstr ""
+
+#: includes/theme-ticket-options.php:100
+#@ woothemes
+msgid "Assigned to..."
+msgstr ""
+
+#: includes/theme-ticket-options.php:113
+#@ woothemes
+msgid "Anyone"
+msgstr ""
+
+#: includes/theme-ticket-options.php:120
+#@ woothemes
+msgid "Define who the ticket is assigned to (optional)."
+msgstr ""
+
+#: includes/theme-ticket-options.php:145
+#@ woothemes
+msgid "Define the current ticket priority."
+msgstr ""
+
+#: includes/theme-ticket-options.php:195
+#@ woothemes
+msgid "Define the current ticket status."
+msgstr ""
+
+#: includes/widgets/widget-woo-attachments.php:15
+#@ woothemes
+msgid "Recent Attachments"
+msgstr ""
+
+#: includes/widgets/widget-woo-mytickets.php:15
+#@ woothemes
+msgid "My Tickets &rarr;"
+msgstr ""
+
+#: includes/widgets/widget-woo-twitter.php:43
+#@ woothemes
+msgid "Title (optional):"
+msgstr ""
+
+#: includes/widgets/widget-woo-tickettags.php:50
+#@ woothemes
+msgid "Number to show:"
+msgstr ""
+
+#: includes/widgets/widget-woo-twitter.php:9
+#@ woothemes
+msgid "Woo - Twitter Stream"
+msgstr ""
+
+#: functions/admin-shortcodes.php:2164
+#: includes/widgets/widget-woo-twitter.php:24
+#@ woothemes
+msgid "Follow"
+msgstr ""
+
+#: includes/widgets/widget-woo-twitter.php:24
+#@ woothemes
+msgid "on Twitter"
+msgstr ""
+
+#: includes/widgets/widget-woo-twitter.php:47
+#@ woothemes
+msgid "Username:"
+msgstr ""
+
+#: includes/widgets/widget-woo-twitter.php:51
+#@ woothemes
+msgid "Limit:"
+msgstr ""
+
+#: template-staff.php:23
+#@ woothemes
+msgid "User"
+msgstr ""
+
+#: loop-tickets.php:9
+#@ woothemes
+msgid "Age"
+msgstr ""
+
+#: loop-tickets.php:32
+#@ woothemes
+msgid "No tickets found."
+msgstr ""
+
+#: loop-tickets.php:5
+#@ woothemes
+msgid "#"
+msgstr ""
+
+#: loop-tickets.php:6
+#@ woothemes
+msgid "Title"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:294
+#: loop-tickets.php:8
+#@ woothemes
+msgid "Assigned to"
+msgstr ""
+
+#: loop-tickets.php:24
+#@ woothemes
+msgid "&ndash;"
+msgstr ""
+
+#: page.php:18
+#: single-knowledgebase.php:27
+#: single-message.php:93
+#: single.php:29
+#@ woothemes
+msgid "Pages:"
+msgstr ""
+
+#: page.php:31
+#: template-edit-profile.php:184
+#: template-fullwidth.php:28
+#: template-new-ticket.php:250
+#: template-staff.php:72
+#@ woothemes
+msgid "Page does not exist!"
+msgstr ""
+
+#: search.php:20
+#@ woothemes
+msgid "Search results:"
+msgstr ""
+
+#: single-message-comments.php:16
+#@ woothemes
+msgid "Replies"
+msgstr ""
+
+#: single-message-comments.php:52
+#@ woothemes
+msgid "Reply to this message"
+msgstr ""
+
+#: comments.php:113
+#: single-message-comments.php:70
+#: single-ticket-comments.php:179
+#@ default
+#@ woothemes
+msgid "Add a comment"
+msgstr ""
+
+#: single-message-comments.php:73
+#: single-ticket-comments.php:182
+#: template-new-message.php:45
+#: template-new-ticket.php:240
+#@ woothemes
+msgid "Attach a file"
+msgstr ""
+
+#: single-message-comments.php:81
+#@ woothemes
+msgid "Add reply"
+msgstr ""
+
+#: single-ticket.php:32
+#@ woothemes
+msgid "Edit this ticket"
+msgstr ""
+
+#: single-ticket.php:36
+#@ woothemes
+msgid "Watch this ticket"
+msgstr ""
+
+#: single-message.php:25
+#: single-ticket.php:36
+#@ woothemes
+msgid "Watch"
+msgstr ""
+
+#: single-ticket.php:38
+#@ woothemes
+msgid "Unwatch this ticket"
+msgstr ""
+
+#: single-message.php:27
+#: single-ticket.php:38
+#@ woothemes
+msgid "Unwatch"
+msgstr ""
+
+#: single-message.php:69
+#: single-ticket.php:106
+#@ woothemes
+msgid "Attachments"
+msgstr ""
+
+#: single-message.php:78
+#: single-ticket.php:115
+#@ woothemes
+msgid "added by"
+msgstr ""
+
+#: template-new-message.php:57
+#@ woothemes
+msgid "Message does not exist!"
+msgstr ""
+
+#: single-ticket-comments.php:18
+#@ woothemes
+msgid "Comments and updates"
+msgstr ""
+
+#: single-ticket-comments.php:52
+#@ woothemes
+msgid "Update this ticket"
+msgstr ""
+
+#: single-ticket-comments.php:58
+#: template-new-ticket.php:92
+#@ woothemes
+msgid "Who's responsible?"
+msgstr ""
+
+#: single-ticket-comments.php:121
+#: template-new-ticket.php:229
+#@ woothemes
+msgid "Add tags (comma separated)"
+msgstr ""
+
+#: single-ticket-comments.php:190
+#@ woothemes
+msgid "Update Ticket"
+msgstr ""
+
+#: single-ticket.php:49
+#@ woothemes
+msgid "Opened:"
+msgstr ""
+
+#: single-ticket.php:52
+#@ woothemes
+msgid "Last updated:"
+msgstr ""
+
+#: single-ticket.php:55
+#@ woothemes
+msgid "Reported by:"
+msgstr ""
+
+#: single-ticket.php:58
+#@ woothemes
+msgid "Assigned to:"
+msgstr ""
+
+#: single-ticket.php:64
+#@ woothemes
+msgid "Priority:"
+msgstr ""
+
+#: single-ticket.php:74
+#@ woothemes
+msgid "Tags:"
+msgstr ""
+
+#: single-ticket.php:83
+#@ woothemes
+msgid "No tags set."
+msgstr ""
+
+#: single-ticket.php:87
+#@ woothemes
+msgid "Status:"
+msgstr ""
+
+#: single-message.php:80
+#: single-ticket.php:117
+#@ woothemes
+msgid "added "
+msgstr ""
+
+#: single-ticket.php:128
+#@ woothemes
+msgid "Description"
+msgstr ""
+
+#: single-ticket.php:138
+#@ woothemes
+msgid "Ticket does not exist!"
+msgstr ""
+
+#: taxonomy.php:30
+#, php-format
+#@ woothemes
+msgid "Ticket Status: %s"
+msgstr ""
+
+#: taxonomy.php:48
+#, php-format
+#@ woothemes
+msgid "Ticket Priority: %s"
+msgstr ""
+
+#: taxonomy.php:64
+#, php-format
+#@ woothemes
+msgid "Ticket Tag: %s"
+msgstr ""
+
+#: template-archives.php:25
+#@ woothemes
+msgid "The Last 30 Posts"
+msgstr ""
+
+#: template-archives.php:31
+#@ woothemes
+msgid "comments"
+msgstr ""
+
+#: includes/widgets/widget.woo-kb-cats.php:15
+#: template-archives.php:36
+#@ woothemes
+msgid "Categories"
+msgstr ""
+
+#: template-archives.php:43
+#@ woothemes
+msgid "Monthly Archives"
+msgstr ""
+
+#: template-contact.php:22
+#@ woothemes
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: template-contact.php:30
+#@ woothemes
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: template-contact.php:33
+#@ woothemes
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: template-contact.php:41
+#@ woothemes
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: template-contact.php:55
+#@ woothemes
+msgid "Contact Form Submission from "
+msgstr ""
+
+#: template-contact.php:64
+#@ woothemes
+msgid "You emailed "
+msgstr ""
+
+#: template-contact.php:87
+#@ woothemes
+msgid "You forgot to enter your"
+msgstr ""
+
+#: template-contact.php:94
+#@ woothemes
+msgid "You entered an invalid"
+msgstr ""
+
+#: template-contact.php:104
+#@ woothemes
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr ""
+
+#: template-contact.php:141
+#@ woothemes
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: template-staff.php:24
+#@ woothemes
+msgid "Role"
+msgstr ""
+
+#: template-staff.php:25
+#@ woothemes
+msgid "Joined"
+msgstr ""
+
+#: template-staff.php:26
+#@ woothemes
+msgid "Last update"
+msgstr ""
+
+#: template-staff.php:27
+#@ woothemes
+msgid "Tickets resolved"
+msgstr ""
+
+#: template-staff.php:42
+#@ woothemes
+msgid "No updates yet"
+msgstr ""
+
+#: template-edit-profile.php:31
+#@ woothemes
+msgid "About yourself"
+msgstr ""
+
+#: template-edit-profile.php:34
+#: template-edit-profile.php:35
+#@ woothemes
+msgid "First Name"
+msgstr ""
+
+#: template-edit-profile.php:39
+#: template-edit-profile.php:40
+#@ woothemes
+msgid "Last Name"
+msgstr ""
+
+#: template-edit-profile.php:47
+#@ woothemes
+msgid "Nickname"
+msgstr ""
+
+#: template-edit-profile.php:53
+#@ woothemes
+msgid "Biographical info"
+msgstr ""
+
+#: template-edit-profile.php:57
+#@ woothemes
+msgid "Contact Info"
+msgstr ""
+
+#: template-edit-profile.php:60
+#@ woothemes
+msgid "Email (not shown publicly)"
+msgstr ""
+
+#: template-edit-profile.php:70
+#: template-edit-profile.php:71
+#@ woothemes
+msgid "AIM"
+msgstr ""
+
+#: template-edit-profile.php:75
+#: template-edit-profile.php:76
+#@ woothemes
+msgid "Yahoo IM"
+msgstr ""
+
+#: template-edit-profile.php:80
+#: template-edit-profile.php:81
+#@ woothemes
+msgid "Jabber / Google Talk"
+msgstr ""
+
+#: template-edit-profile.php:85
+#@ default
+msgid "Twitter"
+msgstr ""
+
+#: template-edit-profile.php:86
+#@ woothemes
+msgid "Twitter username"
+msgstr ""
+
+#: template-edit-profile.php:91
+#@ woothemes
+msgid "Send me an email whenever&hellip;"
+msgstr ""
+
+#: template-edit-profile.php:97
+#@ woothemes
+msgid "Someone posts a new ticket"
+msgstr ""
+
+#: template-edit-profile.php:102
+#@ woothemes
+msgid "Someone posts a new message"
+msgstr ""
+
+#: template-edit-profile.php:109
+#@ woothemes
+msgid "A watched item is updated"
+msgstr ""
+
+#: template-edit-profile.php:114
+#@ woothemes
+msgid "Change password"
+msgstr ""
+
+#: template-edit-profile.php:117
+#@ woothemes
+msgid "New Password"
+msgstr ""
+
+#: template-edit-profile.php:120
+#@ woothemes
+msgid "Hint: The password should be at least seven characters long. To make it stronger, use upper and lower case letters, numbers and symbols like ! \" ? $ % ^ & )."
+msgstr ""
+
+#: template-edit-profile.php:122
+#: template-edit-profile.php:170
+#@ woothemes
+msgid "Strength indicator"
+msgstr ""
+
+#: template-edit-profile.php:129
+#@ woothemes
+msgid "Update Profile"
+msgstr ""
+
+#: template-edit-profile.php:171
+#@ woothemes
+msgid "Very weak"
+msgstr ""
+
+#: template-edit-profile.php:172
+#@ woothemes
+msgid "Weak"
+msgstr ""
+
+#: template-edit-profile.php:173
+#@ woothemes
+msgid "Medium"
+msgstr ""
+
+#: template-edit-profile.php:174
+#@ woothemes
+msgid "Strong"
+msgstr ""
+
+#: template-edit-profile.php:175
+#@ woothemes
+msgid "Mismatch"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:288
+#: template-new-ticket.php:27
+#@ woothemes
+msgid "Ticket Title"
+msgstr ""
+
+#: template-new-ticket.php:28
+#@ woothemes
+msgid "Enter a one line summary for the ticket"
+msgstr ""
+
+#: template-new-ticket.php:235
+#@ woothemes
+msgid "Describe the problem"
+msgstr ""
+
+#: template-new-ticket.php:244
+#@ woothemes
+msgid "Add ticket"
+msgstr ""
+
+#: template-new-message.php:22
+#@ woothemes
+msgid "You must be logged in to create a message."
+msgstr ""
+
+#: template-new-message.php:35
+#@ woothemes
+msgid "Message Title"
+msgstr ""
+
+#: template-new-message.php:36
+#@ woothemes
+msgid "Enter a title for this message"
+msgstr ""
+
+#: template-new-message.php:40
+#@ woothemes
+msgid "Message Content"
+msgstr ""
+
+#: template-new-message.php:41
+#@ woothemes
+msgid "Enter your message. HTML is allowed."
+msgstr ""
+
+#: template-new-message.php:49
+#@ woothemes
+msgid "Add Message"
+msgstr ""
+
+#: template-new-ticket.php:236
+#@ woothemes
+msgid "Describe the problem, including details such as how to reproduce it and what version you are using."
+msgstr ""
+
+#: 404.php:27
+#: archive-knowledgebase.php:10
+#: header.php:170
+#: homepage-client.php:11
+#: homepage-guest.php:107
+#@ woothemes
+msgid "Knowledgebase"
+msgstr ""
+
+#: 404.php:28
+#@ woothemes
+msgid "There are currently no knowledgebase articles. When one is added it will appear in this section."
+msgstr ""
+
+#: archive-knowledgebase.php:14
+#@ woothemes
+msgid "Search knowledgebase"
+msgstr ""
+
+#: archive-message.php:19
+#@ woothemes
+msgid "Search messages"
+msgstr ""
+
+#: archive-ticket.php:25
+#@ woothemes
+msgid " &mdash; assigned to anyone"
+msgstr ""
+
+#: archive-ticket.php:29
+#@ woothemes
+msgid " &mdash; open tickets i&rsquo;m watching"
+msgstr ""
+
+#: archive-ticket.php:45
+#@ woothemes
+msgid "Search tickets"
+msgstr ""
+
+#: archive.php:11
+#: archive.php:14
+#: archive.php:17
+#: archive.php:20
+#@ woothemes
+msgid "Archive:"
+msgstr ""
+
+#: comments.php:82
+#@ woothemes
+msgid "Reply to this post"
+msgstr ""
+
+#: functions/admin-shortcodes.php:858
+#@ woothemes
+msgid "Hide the Content"
+msgstr ""
+
+#: functions/admin-shortcodes.php:859
+#@ woothemes
+msgid "Show the Content"
+msgstr ""
+
+#: functions/admin-shortcodes.php:866
+#@ woothemes
+msgid "Read More"
+msgstr ""
+
+#: functions/admin-shortcodes.php:867
+#@ woothemes
+msgid "Read Less"
+msgstr ""
+
+#: header.php:115
+#, php-format
+#@ woothemes
+msgid "Watching %s open tickets"
+msgstr ""
+
+#: header.php:163
+#@ woothemes
+msgid "My Tickets"
+msgstr ""
+
+#: header.php:173
+#: includes/theme-install.php:153
+#@ woothemes
+msgid "Blog"
+msgstr ""
+
+#: homepage-agent.php:7
+#: sidebar-ticket.php:4
+#: sidebar-ticket.php:15
+#@ woothemes
+msgid "At a glance..."
+msgstr ""
+
+#: homepage-agent.php:13
+#, php-format
+#@ woothemes
+msgid "There is <a href=\"%s\">%s</a> ticket assigned to you"
+msgid_plural "There are <a href=\"%s\">%s</a> tickets assigned to you"
+msgstr[0] ""
+msgstr[1] ""
+
+#: homepage-agent.php:15
+#, php-format
+#@ woothemes
+msgid ", <a href=\"%s\">%s</a> unassigned ticket and "
+msgid_plural ", <a href=\"%s\">%s</a> unassigned tickets and "
+msgstr[0] ""
+msgstr[1] ""
+
+#: homepage-agent.php:17
+#, php-format
+#@ woothemes
+msgid "<a href=\"%s\">%s</a> open ticket in total."
+msgid_plural "<a href=\"%s\">%s</a> open tickets in total."
+msgstr[0] ""
+msgstr[1] ""
+
+#: homepage-agent.php:30
+#@ woothemes
+msgid "Search tickets&hellip;"
+msgstr ""
+
+#: homepage-client.php:43
+#: homepage-guest.php:137
+#: includes/theme-functions.php:107
+#: loop-knowledgebase.php:11
+#: loop-messages.php:13
+#: single-knowledgebase.php:20
+#@ woothemes
+msgid "Posted"
+msgstr ""
+
+#: loop-messages.php:22
+#@ woothemes
+msgid "Last updated "
+msgstr ""
+
+#: homepage-agent.php:84
+#: homepage-agent.php:210
+#: homepage-client.php:160
+#: includes/theme-functions.php:188
+#, php-format
+#@ woothemes
+msgid "Updated %s ago by <a href=\"%s\">%s</a>."
+msgstr ""
+
+#: homepage-agent.php:223
+#@ woothemes
+msgid "There are currently no open tickets assigned to you."
+msgstr ""
+
+#: homepage-client.php:13
+#@ woothemes
+msgid "Please search the knowledgebase before adding a new ticket."
+msgstr ""
+
+#: homepage-client.php:17
+#: homepage-guest.php:111
+#@ woothemes
+msgid "Search knowledgebase&hellip;"
+msgstr ""
+
+#: homepage-client.php:39
+#: homepage-guest.php:133
+#: includes/theme-functions.php:103
+#: includes/theme-functions.php:303
+#: loop-knowledgebase.php:7
+#, php-format
+#@ woothemes
+msgid "%s person found this useful"
+msgid_plural "%s people found this useful"
+msgstr[0] ""
+msgstr[1] ""
+
+#: homepage-client.php:43
+#: homepage-guest.php:137
+#: includes/theme-functions.php:107
+#: loop-knowledgebase.php:11
+#: single-knowledgebase.php:20
+#@ woothemes
+msgid " in "
+msgstr ""
+
+#: homepage-agent.php:95
+#: homepage-agent.php:219
+#: homepage-client.php:53
+#: homepage-guest.php:147
+#@ woothemes
+msgid "View more &rarr;"
+msgstr ""
+
+#: homepage-client.php:119
+#@ woothemes
+msgid "My tickets"
+msgstr ""
+
+#: homepage-client.php:171
+#@ woothemes
+msgid "You currently have no open tickets."
+msgstr ""
+
+#: homepage-client.php:175
+#@ woothemes
+msgid "Open a new ticket"
+msgstr ""
+
+#: homepage-guest.php:21
+#@ woothemes
+msgid "You must read and accept our terms and conditions to continue."
+msgstr ""
+
+#: homepage-guest.php:26
+#@ woothemes
+msgid "Please enter a username."
+msgstr ""
+
+#: homepage-guest.php:27
+#@ woothemes
+msgid "Please enter your email address."
+msgstr ""
+
+#: homepage-guest.php:28
+#@ woothemes
+msgid "Please enter a password."
+msgstr ""
+
+#: homepage-guest.php:29
+#@ woothemes
+msgid "Please re-enter your password."
+msgstr ""
+
+#: homepage-guest.php:30
+#@ woothemes
+msgid "Passwords do not match."
+msgstr ""
+
+#: homepage-guest.php:34
+#@ woothemes
+msgid "Invalid username."
+msgstr ""
+
+#: homepage-guest.php:36
+#@ woothemes
+msgid "An account is already registered with that username. Please choose another."
+msgstr ""
+
+#: homepage-guest.php:41
+#@ woothemes
+msgid "Invalid email address."
+msgstr ""
+
+#: homepage-guest.php:43
+#@ woothemes
+msgid "An account is already registered with your email address. Please login."
+msgstr ""
+
+#: homepage-guest.php:57
+#, php-format
+#@ woothemes
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: homepage-guest.php:94
+#@ woothemes
+msgid "Sign-up error"
+msgstr ""
+
+#: homepage-guest.php:213
+#@ woothemes
+msgid "Sign up"
+msgstr ""
+
+#: homepage-guest.php:219
+#@ woothemes
+msgid "Enter a username"
+msgstr ""
+
+#: homepage-guest.php:224
+#@ woothemes
+msgid "Your email address"
+msgstr ""
+
+#: homepage-guest.php:230
+#@ woothemes
+msgid "Enter a password"
+msgstr ""
+
+#: homepage-guest.php:234
+#: homepage-guest.php:235
+#@ woothemes
+msgid "Re-enter password"
+msgstr ""
+
+#: homepage-guest.php:244
+#, php-format
+#@ woothemes
+msgid "I accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>."
+msgstr ""
+
+#: homepage-guest.php:247
+#@ woothemes
+msgid "Create Account &rarr;"
+msgstr ""
+
+#: includes/theme-functions.php:117
+#: includes/theme-functions.php:199
+#@ woothemes
+msgid "No results found"
+msgstr ""
+
+#: includes/theme-comments.php:191
+#: includes/theme-custom-post-types.php:292
+#: loop-tickets.php:7
+#: single-ticket-comments.php:88
+#: single-ticket-comments.php:130
+#: template-new-ticket.php:122
+#: template-new-ticket.php:193
+#@ woothemes
+msgid "Type"
+msgstr ""
+
+#: includes/theme-comments.php:422
+#, php-format
+#@ woothemes
+msgid "Type: <strong>%s</strong> &rarr; <strong>%s</strong>"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:80
+#@ woothemes
+msgid "KB article"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:82
+#@ woothemes
+msgid "KB articles"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:83
+#@ woothemes
+msgid "Knowledgebase article"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:85
+#@ woothemes
+msgid "Add New Knowledgebase article"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:87
+#@ woothemes
+msgid "Edit Knowledgebase article"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:88
+#@ woothemes
+msgid "New Knowledgebase article"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:89
+#@ woothemes
+msgid "View Knowledgebase articles"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:90
+#@ woothemes
+msgid "View Knowledgebase article"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:91
+#@ woothemes
+msgid "Search Knowledgebase articles"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:92
+#@ woothemes
+msgid "No Knowledgebase articles found"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:93
+#@ woothemes
+msgid "No Knowledgebase articles found in trash"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:94
+#@ woothemes
+msgid "Parent Knowledgebase article"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:96
+#@ woothemes
+msgid "This is where you can create new knowledgebase articles for your site."
+msgstr ""
+
+#: includes/theme-custom-post-types.php:191
+#@ woothemes
+msgid "Ticket Types"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:192
+#: includes/theme-ticket-options.php:151
+#@ woothemes
+msgid "Ticket Type"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:193
+#@ woothemes
+msgid "Search Ticket Types"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:194
+#@ woothemes
+msgid "All Ticket Types"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:195
+#@ woothemes
+msgid "Parent Ticket Type"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:196
+#@ woothemes
+msgid "Parent Ticket Type:"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:197
+#@ woothemes
+msgid "Edit Ticket Type"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:198
+#@ woothemes
+msgid "Update Ticket Type"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:199
+#@ woothemes
+msgid "Add New Ticket Type"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:200
+#@ woothemes
+msgid "New Ticket Type"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:235
+#@ woothemes
+msgid "KB Category"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:236
+#@ woothemes
+msgid "KB Categories"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:237
+#@ woothemes
+msgid "Search KB Categories"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:238
+#@ woothemes
+msgid "All KB Categories"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:239
+#@ woothemes
+msgid "Parent KB Category"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:240
+#@ woothemes
+msgid "Parent KB Category:"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:241
+#@ woothemes
+msgid "Edit KB Category"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:242
+#@ woothemes
+msgid "Update KB Category"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:243
+#@ woothemes
+msgid "Add New KB Category"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:244
+#@ woothemes
+msgid "New KB Category"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:257
+#@ woothemes
+msgid "KB Tag"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:258
+#@ woothemes
+msgid "KB Tags"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:259
+#@ woothemes
+msgid "Search KB Tags"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:260
+#@ woothemes
+msgid "All KB Tags"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:261
+#@ woothemes
+msgid "Parent KB Tag"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:262
+#@ woothemes
+msgid "Parent KB Tag:"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:263
+#@ woothemes
+msgid "Edit KB Tag"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:264
+#@ woothemes
+msgid "Update KB Tag"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:265
+#@ woothemes
+msgid "Add New KB Tag"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:266
+#@ woothemes
+msgid "New KB Tag"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:289
+#@ woothemes
+msgid "Ticket ID"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:293
+#@ woothemes
+msgid "Submitted by"
+msgstr ""
+
+#: includes/theme-custom-post-types.php:296
+#@ woothemes
+msgid "Date"
+msgstr ""
+
+#: includes/theme-form-handlers.php:36
+#@ woothemes
+msgid "<strong>Error</strong> &ldquo;Title&rdquo; is a required field."
+msgstr ""
+
+#: includes/theme-form-handlers.php:37
+#@ woothemes
+msgid "<strong>Error</strong> Please describe the problem."
+msgstr ""
+
+#: includes/theme-form-handlers.php:157
+#@ woothemes
+msgid "<strong>Thank you</strong> Your issue has been added to our system."
+msgstr ""
+
+#: includes/theme-form-handlers.php:190
+#@ woothemes
+msgid "<strong>Error</strong> &ldquo;Message title&rdquo; is a required field."
+msgstr ""
+
+#: includes/theme-form-handlers.php:191
+#@ woothemes
+msgid "<strong>Error</strong> Please enter a message!"
+msgstr ""
+
+#: includes/theme-form-handlers.php:309
+#@ woothemes
+msgid "<strong>Success!</strong> Your profile has been updated"
+msgstr ""
+
+#: includes/theme-functions.php:304
+#, php-format
+#@ woothemes
+msgid "%s person did not find this useful"
+msgid_plural "%s people did not find this useful"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/theme-install.php:66
+#@ woothemes
+msgid "Please be descriptive and provide demonstrative links where possible. You will be notified when a member of our support staff updates your ticket."
+msgstr ""
+
+#: includes/theme-install.php:109
+#@ woothemes
+msgid "Support Staff"
+msgstr ""
+
+#: includes/theme-install.php:110
+#@ woothemes
+msgid "Our friendly support staff are listed below."
+msgstr ""
+
+#: includes/theme-install.php:132
+#@ woothemes
+msgid "Edit your information below; this controls your notification settings as well as the information shown on your profile."
+msgstr ""
+
+#: includes/theme-options.php:72
+#@ woothemes
+msgid "None"
+msgstr ""
+
+#: includes/theme-ticket-options.php:56
+#: template-new-ticket.php:152
+#@ woothemes
+msgid "Ticket Owner"
+msgstr ""
+
+#: includes/theme-ticket-options.php:76
+#: template-new-ticket.php:170
+#@ woothemes
+msgid "Agents"
+msgstr ""
+
+#: includes/theme-ticket-options.php:85
+#: template-new-ticket.php:179
+#@ woothemes
+msgid "Clients"
+msgstr ""
+
+#: includes/theme-ticket-options.php:94
+#@ woothemes
+msgid "Define who owns the ticket."
+msgstr ""
+
+#: includes/theme-ticket-options.php:170
+#@ woothemes
+msgid "Define the current ticket type."
+msgstr ""
+
+#: includes/theme-users.php:23
+#@ woothemes
+msgid "users"
+msgstr ""
+
+#: includes/widgets/widget-woo-agents.php:9
+#@ woothemes
+msgid "SupportPress - Agents"
+msgstr ""
+
+#: includes/widgets/widget-woo-agents.php:15
+#: includes/widgets/widget-woo-agents.php:46
+#@ woothemes
+msgid "Support Agents"
+msgstr ""
+
+#: includes/widgets/widget.woo-kb-cats.php:9
+#@ woothemes
+msgid "SupportPress - Knowledgebase Categories"
+msgstr ""
+
+#: includes/widgets/widget.woo-kb-tags.php:9
+#@ woothemes
+msgid "SupportPress - Knowledgebase Tag Cloud"
+msgstr ""
+
+#: loop-knowledgebase.php:15
+#@ woothemes
+msgid "No knowledgebase articles were found."
+msgstr ""
+
+#: sidebar-ticket.php:37
+#@ woothemes
+msgid "By Status"
+msgstr ""
+
+#: sidebar-ticket.php:51
+#@ woothemes
+msgid "By Type"
+msgstr ""
+
+#: sidebar-ticket.php:65
+#@ woothemes
+msgid "By Priority"
+msgstr ""
+
+#: sidebar-ticket.php:9
+#, php-format
+#@ woothemes
+msgid "You have <a href=\"%s\">%s</a> open ticket"
+msgid_plural "You have <a href=\"%s\">%s</a> open tickets"
+msgstr[0] ""
+msgstr[1] ""
+
+#: sidebar-ticket.php:11
+#, php-format
+#@ woothemes
+msgid " and <a href=\"%s\">%s</a> resolved ticket."
+msgid_plural " and <a href=\"%s\">%s</a> resolved tickets."
+msgstr[0] ""
+msgstr[1] ""
+
+#: sidebar-ticket.php:20
+#, php-format
+#@ woothemes
+msgid "There is <a href=\"%s\">%s</a> ticket assigned to you and "
+msgid_plural "There are <a href=\"%s\">%s</a> tickets assigned to you and "
+msgstr[0] ""
+msgstr[1] ""
+
+#: sidebar-ticket.php:22
+#, php-format
+#@ woothemes
+msgid "<a href=\"%s\">%s</a> unassigned ticket."
+msgid_plural "<a href=\"%s\">%s</a> unassigned tickets."
+msgstr[0] ""
+msgstr[1] ""
+
+#: sidebar-ticket.php:30
+#@ woothemes
+msgid "Browse Tickets&hellip;"
+msgstr ""
+
+#: single-knowledgebase.php:20
+#@ woothemes
+msgid " and tagged as "
+msgstr ""
+
+#: single-message.php:21
+#@ woothemes
+msgid "Edit this message"
+msgstr ""
+
+#: single-message.php:25
+#@ woothemes
+msgid "Watch this message"
+msgstr ""
+
+#: single-message.php:27
+#@ woothemes
+msgid "Unwatch this message"
+msgstr ""
+
+#: single-message.php:49
+#@ woothemes
+msgid "Updated "
+msgstr ""
+
+#: single-ticket.php:5
+#@ woothemes
+msgid "You do not have permission to view this ticket."
+msgstr ""
+
+#: single-ticket.php:69
+#@ woothemes
+msgid "Type:"
+msgstr ""
+
+#: taxonomy-knowledgebase_category.php:13
+#, php-format
+#@ woothemes
+msgid "Category: %s"
+msgstr ""
+
+#: taxonomy-knowledgebase_tags.php:13
+#, php-format
+#@ woothemes
+msgid "Tag: %s"
+msgstr ""
+
+#: taxonomy.php:56
+#, php-format
+#@ woothemes
+msgid "Ticket Type: %s"
+msgstr ""
+
+#: template-edit-profile.php:46
+#@ woothemes
+msgid "Nickname/Display name"
+msgstr ""
+
+#: header.php:117
+#@ woothemes
+msgid "Profile"
+msgstr ""
+
+#: includes/theme-functions.php:242
+#@ woothemes
+msgid "Problem:"
+msgstr ""
+
+#: includes/theme-functions.php:246
+#: includes/theme-functions.php:268
+#@ woothemes
+msgid "Original poster"
+msgstr ""
+
+#: includes/theme-functions.php:248
+#@ woothemes
+msgid "Solution:"
+msgstr ""
+
+#: includes/widgets/widget-woo-attachments.php:9
+#@ woothemes
+msgid "SupportPress - Attachments"
+msgstr ""
+
+#: includes/widgets/widget-woo-mytickets.php:9
+#@ woothemes
+msgid "SupportPress - My Tickets"
+msgstr ""
+
+#: includes/widgets/widget-woo-tickettags.php:9
+#@ woothemes
+msgid "SupportPress - Ticket Tags"
+msgstr ""
+
+#: includes/widgets/widget.woo-kb-cats.php:33
+#@ default
+msgid "No categories"
+msgstr ""
+
+#: single-ticket.php:31
+#@ woothemes
+msgid "Post to knowledge base"
+msgstr ""
+
+#: single-ticket.php:31
+#@ woothemes
+msgid "Add to Knowledgebase"
+msgstr ""
+
+#: functions/admin-backup.php:77
+#@ woothemes
+msgid "WooThemes Settings Backup"
+msgstr ""
+
+#: functions/admin-backup.php:77
+#: functions/admin-backup.php:107
+#: functions/admin-framework-settings.php:65
+#@ woothemes
+msgid "Backup Settings"
+msgstr ""
+
+#: functions/admin-backup.php:109
+#@ woothemes
+msgid "Import Settings"
+msgstr ""
+
+#: functions/admin-backup.php:111
+#@ woothemes
+msgid "If you have settings in a backup file on your computer, the WooFramework can import those into this site. To get started, upload your backup file to import from below."
+msgstr ""
+
+#: functions/admin-backup.php:116
+#, php-format
+#@ woothemes
+msgid "Upload File: (Maximum Size: %s)"
+msgstr ""
+
+#: functions/admin-backup.php:119
+#@ woothemes
+msgid "Upload File and Import"
+msgstr ""
+
+#: functions/admin-backup.php:123
+#@ woothemes
+msgid "Export Settings"
+msgstr ""
+
+#: functions/admin-backup.php:125
+#@ woothemes
+msgid "When you click the button below, the WooFramework will create a text file for you to save to your computer."
+msgstr ""
+
+#: functions/admin-backup.php:126
+#, php-format
+#@ woothemes
+msgid "This text file can be used to restore your settings here on \"%s\", or to easily setup another website with the same settings\"."
+msgstr ""
+
+#: functions/admin-backup.php:130
+#@ woothemes
+msgid "All Settings"
+msgstr ""
+
+#: functions/admin-backup.php:131
+#@ woothemes
+msgid "This will contain all of the options listed below."
+msgstr ""
+
+#: functions/admin-backup.php:135
+#@ woothemes
+msgid "SEO Settings"
+msgstr ""
+
+#: functions/admin-backup.php:137
+#@ woothemes
+msgid "This will contain only the custom sidebars themselves and not the widgets within them"
+msgstr ""
+
+#: functions/admin-backup.php:142
+#@ woothemes
+msgid "Download Export File"
+msgstr ""
+
+#: functions/admin-backup.php:165
+#@ woothemes
+msgid "Welcome to the WooThemes Backup Manager."
+msgstr ""
+
+#: functions/admin-backup.php:166
+#@ woothemes
+msgid "Here are a few notes on using this screen."
+msgstr ""
+
+#: functions/admin-backup.php:167
+#@ woothemes
+msgid "The backup manager allows you to backup or restore your \"Theme Options\" and other settings to or from a text file."
+msgstr ""
+
+#: functions/admin-backup.php:168
+#@ woothemes
+msgid "To create a backup, simply select the setting type you'd like to backup (or \"All Settings\") and hit the \"Download Export File\" button."
+msgstr ""
+
+#: functions/admin-backup.php:169
+#@ woothemes
+msgid "To restore your settings from a backup, browse your computer for the file (under the \"Import Settings\" heading) and hit the \"Upload File and Import\" button. This will restore only the settings that have changed since the backup."
+msgstr ""
+
+#: functions/admin-backup.php:171
+#@ woothemes
+msgid "Please note that only valid backup files generated through the WooThemes Backup Manager should be imported."
+msgstr ""
+
+#: functions/admin-backup.php:173
+#@ woothemes
+msgid "Looking for assistance?"
+msgstr ""
+
+#: functions/admin-backup.php:174
+#, php-format
+#@ woothemes
+msgid "Please post your query on the %sWooThemes Support Forums%s where we will do our best to assist you further."
+msgstr ""
+
+#: functions/admin-backup.php:194
+#, php-format
+#@ woothemes
+msgid "Please note that this backup manager backs up only your settings and not your content. To backup your content, please use the %sWordPress Export Tool%s."
+msgstr ""
+
+#: functions/admin-backup.php:197
+#@ woothemes
+msgid "There was a problem importing your settings. Please Try again."
+msgstr ""
+
+#: functions/admin-backup.php:199
+#@ woothemes
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr ""
+
+#: functions/admin-backup.php:201
+#@ woothemes
+msgid "The import file you've provided is invalid. Please try again."
+msgstr ""
+
+#: functions/admin-backup.php:203
+#, php-format
+#@ woothemes
+msgid "Settings successfully imported. | Return to %sTheme Options%s"
+msgstr ""
+
+#: functions/admin-custom-nav.php:29
+#, php-format
+#@ woothemes
+msgid "%1$s is <strong>deprecated</strong> since version %2$s of the WooFramework! Use %3$s instead."
+msgstr ""
+
+#: functions/admin-custom-nav.php:29
+#@ woothemes
+msgid "WordPress Menu Management"
+msgstr ""
+
+#: functions/admin-custom.php:89
+#: includes/theme-options.php:76
+#: includes/theme-options.php:99
+#@ woothemes
+msgid "General Settings"
+msgstr ""
+
+#: functions/admin-custom.php:92
+#: functions/admin-framework-settings.php:53
+#@ woothemes
+msgid "SEO"
+msgstr ""
+
+#: functions/admin-custom.php:410
+#: functions/admin-interface.php:1460
+#@ woothemes
+msgid "@"
+msgstr ""
+
+#: functions/admin-custom.php:628
+#@ woothemes
+msgid " Custom Settings"
+msgstr ""
+
+#: functions/admin-framework-settings.php:41
+#@ woothemes
+msgid "Admin Settings"
+msgstr ""
+
+#: functions/admin-framework-settings.php:45
+#@ woothemes
+msgid "Super User (username)"
+msgstr ""
+
+#: functions/admin-framework-settings.php:46
+#, php-format
+#@ woothemes
+msgid "Enter your %s to hide the Framework Settings and Update Framework from other users. Can be reset from the %s under %s."
+msgstr ""
+
+#: functions/admin-framework-settings.php:46
+#@ woothemes
+msgid "username"
+msgstr ""
+
+#: functions/admin-framework-settings.php:46
+#@ woothemes
+msgid "WP options page"
+msgstr ""
+
+#: functions/admin-framework-settings.php:52
+#@ woothemes
+msgid "Disable SEO Menu Item"
+msgstr ""
+
+#: functions/admin-framework-settings.php:53
+#: functions/admin-framework-settings.php:59
+#: functions/admin-framework-settings.php:65
+#, php-format
+#@ woothemes
+msgid "Disable the %s menu item in the theme menu."
+msgstr ""
+
+#: functions/admin-framework-settings.php:58
+#@ woothemes
+msgid "Disable Sidebar Manager Menu Item"
+msgstr ""
+
+#: functions/admin-framework-settings.php:64
+#@ woothemes
+msgid "Disable Backup Settings Menu Item"
+msgstr ""
+
+#: functions/admin-framework-settings.php:70
+#@ woothemes
+msgid "Theme Update Notification"
+msgstr ""
+
+#: functions/admin-framework-settings.php:71
+#@ woothemes
+msgid "This will enable notices on your theme options page that there is an update available for your theme."
+msgstr ""
+
+#: functions/admin-framework-settings.php:76
+#@ woothemes
+msgid "WooFramework Update Notification"
+msgstr ""
+
+#: functions/admin-framework-settings.php:77
+#@ woothemes
+msgid "This will enable notices on your theme options page that there is an update available for the WooFramework."
+msgstr ""
+
+#: functions/admin-framework-settings.php:82
+#@ woothemes
+msgid "Theme Settings"
+msgstr ""
+
+#: functions/admin-framework-settings.php:86
+#@ woothemes
+msgid "Remove Generator Meta Tags"
+msgstr ""
+
+#: functions/admin-framework-settings.php:87
+#@ woothemes
+msgid "This disables the output of generator meta tags in the HEAD section of your site."
+msgstr ""
+
+#: functions/admin-framework-settings.php:92
+#@ woothemes
+msgid "Image Placeholder"
+msgstr ""
+
+#: functions/admin-framework-settings.php:93
+#@ woothemes
+msgid "Set a default image placeholder for your thumbnails. Use this if you want a default image to be shown if you haven't added a custom image to your post."
+msgstr ""
+
+#: functions/admin-framework-settings.php:98
+#@ woothemes
+msgid "Disable Shortcodes Stylesheet"
+msgstr ""
+
+#: functions/admin-framework-settings.php:99
+#@ woothemes
+msgid "This disables the output of shortcodes.css in the HEAD section of your site."
+msgstr ""
+
+#: functions/admin-framework-settings.php:104
+#@ woothemes
+msgid "Output \"Tracking Code\" Option in Header"
+msgstr ""
+
+#: functions/admin-framework-settings.php:105
+#, php-format
+#@ woothemes
+msgid "This will output the %s option in your header instead of the footer of your website."
+msgstr ""
+
+#: functions/admin-framework-settings.php:105
+#: includes/theme-options.php:132
+#@ woothemes
+msgid "Tracking Code"
+msgstr ""
+
+#: functions/admin-framework-settings.php:110
+#@ woothemes
+msgid "Branding"
+msgstr ""
+
+#: functions/admin-framework-settings.php:114
+#@ woothemes
+msgid "Options panel header"
+msgstr ""
+
+#: functions/admin-framework-settings.php:115
+#@ woothemes
+msgid "Change the header image for the WooThemes Backend."
+msgstr ""
+
+#: functions/admin-framework-settings.php:120
+#@ woothemes
+msgid "Options panel icon"
+msgstr ""
+
+#: functions/admin-framework-settings.php:121
+#@ woothemes
+msgid "Change the icon image for the WordPress backend sidebar."
+msgstr ""
+
+#: functions/admin-framework-settings.php:126
+#@ woothemes
+msgid "WordPress login logo"
+msgstr ""
+
+#: functions/admin-framework-settings.php:127
+#@ woothemes
+msgid "Change the logo image for the WordPress login page."
+msgstr ""
+
+#: functions/admin-framework-settings.php:127
+#@ woothemes
+msgid "Optimal logo size is 274x63px"
+msgstr ""
+
+#: functions/admin-framework-settings.php:132
+#@ woothemes
+msgid "WordPress login URL"
+msgstr ""
+
+#: functions/admin-framework-settings.php:133
+#@ woothemes
+msgid "Change the URL that the logo image on the WordPress login page links to."
+msgstr ""
+
+#: functions/admin-framework-settings.php:139
+#@ woothemes
+msgid "WordPress login logo Title"
+msgstr ""
+
+#: functions/admin-framework-settings.php:140
+#@ woothemes
+msgid "Change the title of the logo image on the WordPress login page."
+msgstr ""
+
+#: functions/admin-framework-settings.php:165
+#@ woothemes
+msgid "WordPress Toolbar"
+msgstr ""
+
+#: functions/admin-framework-settings.php:169
+#@ woothemes
+msgid "Disable WordPress Toolbar"
+msgstr ""
+
+#: functions/admin-framework-settings.php:170
+#@ woothemes
+msgid "Disable the WordPress Toolbar."
+msgstr ""
+
+#: functions/admin-framework-settings.php:175
+#@ woothemes
+msgid "Enable the WooFramework Toolbar enhancements"
+msgstr ""
+
+#: functions/admin-framework-settings.php:176
+#@ woothemes
+msgid "Enable several WooFramework-specific enhancements to the WordPress Toolbar, such as custom navigation items for \"Theme Options\"."
+msgstr ""
+
+#: functions/admin-framework-settings.php:185
+#@ woothemes
+msgid "PressTrends"
+msgstr ""
+
+#: functions/admin-framework-settings.php:189
+#@ woothemes
+msgid "Enable PressTrends Tracking"
+msgstr ""
+
+#: functions/admin-framework-settings.php:190
+#@ woothemes
+msgid "Enable sending of usage data to PressTrends."
+msgstr ""
+
+#: functions/admin-framework-settings.php:195
+#@ woothemes
+msgid "What is PressTrends?"
+msgstr ""
+
+#: functions/admin-framework-settings.php:198
+#, php-format
+#@ woothemes
+msgid "PressTrends is a simple usage tracker that allows us to see how our customers are using WooThemes themes - so that we can help improve them for you. %sNone%s of your personal data is sent to PressTrends.%sFor more information, please view the PressTrends %s."
+msgstr ""
+
+#: functions/admin-framework-settings.php:198
+#@ woothemes
+msgid "privacy policy"
+msgstr ""
+
+#: functions/admin-framework-settings.php:208
+#: functions/admin-interface.php:332
+#@ woothemes
+msgid "Options Updated"
+msgstr ""
+
+#: functions/admin-framework-settings.php:209
+#: functions/admin-interface.php:333
+#@ woothemes
+msgid "Options Reset"
+msgstr ""
+
+#: functions/admin-framework-settings.php:242
+#: functions/admin-interface.php:370
+#: functions/admin-sbm.php:906
+#: functions/admin-seo.php:335
+#@ woothemes
+msgid "View Changelog"
+msgstr ""
+
+#: functions/admin-framework-settings.php:243
+#: functions/admin-interface.php:371
+#: functions/admin-sbm.php:907
+#: functions/admin-seo.php:336
+#@ woothemes
+msgid "View Theme Documentation"
+msgstr ""
+
+#: functions/admin-framework-settings.php:244
+#: functions/admin-interface.php:372
+#: functions/admin-sbm.php:908
+#: functions/admin-seo.php:337
+#@ woothemes
+msgid "Visit Support Desk"
+msgstr ""
+
+#: functions/admin-framework-settings.php:263
+#@ woothemes
+msgid "Working..."
+msgstr ""
+
+#: functions/admin-framework-settings.php:264
+#@ woothemes
+msgid "Save All Changes"
+msgstr ""
+
+#: functions/admin-framework-settings.php:285
+#@ woothemes
+msgid "Reset Options"
+msgstr ""
+
+#: functions/admin-framework-settings.php:285
+#@ woothemes
+msgid "Click OK to reset. Any settings will be lost!"
+msgstr ""
+
+#: functions/admin-functions.php:1038
+#@ woothemes
+msgid "less than a minute ago"
+msgstr ""
+
+#: functions/admin-functions.php:1040
+#@ woothemes
+msgid "about a minute ago"
+msgstr ""
+
+#: functions/admin-functions.php:1042
+#@ woothemes
+msgid "minutes ago"
+msgstr ""
+
+#: functions/admin-functions.php:1046
+#@ woothemes
+msgid "hours ago"
+msgstr ""
+
+#: functions/admin-functions.php:1050
+#@ woothemes
+msgid "days ago"
+msgstr ""
+
+#: functions/admin-functions.php:1065
+#, php-format
+#@ woothemes
+msgid "%1$s is <strong>deprecated</strong> since version %2$s of the WooFramework! Please upgrade your Theme to the latest version."
+msgstr ""
+
+#: functions/admin-functions.php:1512
+#, php-format
+#@ woothemes
+msgid "Page %s"
+msgstr ""
+
+#: functions/admin-functions.php:3170
+#, php-format
+#@ woothemes
+msgid "Child Theme: %s %s"
+msgstr ""
+
+#: functions/admin-functions.php:3174
+#, php-format
+#@ woothemes
+msgid "Theme: %s %s"
+msgstr ""
+
+#: functions/admin-functions.php:3177
+#, php-format
+#@ woothemes
+msgid "WooFramework: %s"
+msgstr ""
+
+#: functions/admin-functions.php:3544
+#@ woothemes
+msgid "Enhance your theme with WooDojo."
+msgstr ""
+
+#: functions/admin-functions.php:3545
+#@ woothemes
+msgid "WooDojo is powerful WooThemes features suite for enhancing your website. Learn more."
+msgstr ""
+
+#: functions/admin-functions.php:3546
+#: functions/admin-functions.php:3647
+#: functions/admin-functions.php:3648
+#@ woothemes
+msgid "Get WooDojo"
+msgstr ""
+
+#: functions/admin-functions.php:3547
+#: functions/admin-functions.php:3568
+#: functions/admin-functions.php:3619
+#: functions/admin-functions.php:3649
+#: functions/admin-functions.php:3688
+#@ woothemes
+msgid "Close"
+msgstr ""
+
+#: functions/admin-functions.php:3565
+#: functions/admin-functions.php:3567
+#@ woothemes
+msgid "Enable PressTrends"
+msgstr ""
+
+#: functions/admin-functions.php:3566
+#, php-format
+#@ woothemes
+msgid "PressTrends is a simple usage tracker that allows us to see how our customers are using WooThemes themes - so that we can help improve them for you. %sNone%s of your personal data is sent to PressTrends."
+msgstr ""
+
+#: functions/admin-functions.php:3581
+#@ woothemes
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: functions/admin-functions.php:3583
+#@ woothemes
+msgid "You have taken too long. Please go back and retry."
+msgstr ""
+
+#: functions/admin-functions.php:3617
+#@ woothemes
+msgid "WooSEO is deprecated from version 5.4.0 of the WooFramework."
+msgstr ""
+
+#: functions/admin-functions.php:3618
+#, php-format
+#@ woothemes
+msgid "While we won&#39;t be removing it until 31 October 2012, we encourage you to use the %1$s"
+msgstr ""
+
+#: functions/admin-functions.php:3618
+#@ woothemes
+msgid "Get WordPress SEO"
+msgstr ""
+
+#: functions/admin-functions.php:3618
+#@ woothemes
+msgid "WordPress SEO Plugin"
+msgstr ""
+
+#: functions/admin-functions.php:3618
+#@ woothemes
+msgid "If you need help moving your existing SEO data, WordPress SEO has a built-in importer to move your data over."
+msgstr ""
+
+#: functions/admin-functions.php:3645
+#@ woothemes
+msgid "WooSidebars is deprecated from version 5.4.0 of the WooFramework."
+msgstr ""
+
+#: functions/admin-functions.php:3646
+#@ woothemes
+msgid "While we won't be removing it until 31 October 2012, we encourage you to use the new and improved"
+msgstr ""
+
+#: functions/admin-functions.php:3647
+#, php-format
+#@ woothemes
+msgid "version of %1$s in our free plugin, %2$s. There is also a Sidebar Manager to WooSidebars Converter plugin, available through WooDojo."
+msgstr ""
+
+#: functions/admin-functions.php:3647
+#@ woothemes
+msgid "Get WooSidebars"
+msgstr ""
+
+#: functions/admin-functions.php:3647
+#@ woothemes
+msgid "WooSidebars"
+msgstr ""
+
+#: functions/admin-functions.php:3647
+#@ woothemes
+msgid "WooDojo"
+msgstr ""
+
+#: functions/admin-functions.php:3684
+#@ woothemes
+msgid "ATTENTION: Insecure Version of Timthumb Image Resize Script Detected"
+msgstr ""
+
+#: functions/admin-functions.php:3685
+#@ woothemes
+msgid "A possible old version of the TimThumb script was detected in your theme folder. Please remove the following files from your theme as a security precaution"
+msgstr ""
+
+#: functions/admin-functions.php:3761
+#, php-format
+#@ woothemes
+msgid "Framework %s"
+msgstr ""
+
+#: functions/admin-interface.php:395
+#@ woothemes
+msgid "Error"
+msgstr ""
+
+#: functions/admin-interface.php:402
+#@ woothemes
+msgid "An Error Occured"
+msgstr ""
+
+#: functions/admin-interface.php:405
+#@ woothemes
+msgid "Something went wrong while trying to load your Theme Options panel."
+msgstr ""
+
+#: functions/admin-interface.php:406
+#, php-format
+#@ woothemes
+msgid "Please reload the page, if this error persists, please get in touch with us through our %1$s."
+msgstr ""
+
+#: functions/admin-interface.php:406
+#@ woothemes
+msgid "Support Desk"
+msgstr ""
+
+#: functions/admin-interface.php:929
+#@ woothemes
+msgid "Options Saved Successfully"
+msgstr ""
+
+#: functions/admin-interface.php:933
+#@ woothemes
+msgid "There was an error while saving your options. Please try again."
+msgstr ""
+
+#: functions/admin-interface.php:937
+#@ woothemes
+msgid "Options Reset Successfully"
+msgstr ""
+
+#: functions/admin-interface.php:1564
+#@ woothemes
+msgid "You are not able to update this option because you lack the <code>unfiltered_html</code> capability."
+msgstr ""
+
+#: functions/admin-interface.php:1704
+#@ woothemes
+msgid "New Version"
+msgstr ""
+
+#: functions/admin-interface.php:1705
+#@ woothemes
+msgid "New Feature"
+msgstr ""
+
+#: functions/admin-interface.php:1706
+#@ woothemes
+msgid "Bugfix"
+msgstr ""
+
+#: functions/admin-interface.php:1730
+#@ woothemes
+msgid "Theme update is available"
+msgstr ""
+
+#: functions/admin-interface.php:1730
+#@ woothemes
+msgid "Get the new version"
+msgstr ""
+
+#: functions/admin-interface.php:1730
+#, php-format
+#@ woothemes
+msgid "Update Type: %s"
+msgstr ""
+
+#: functions/admin-interface.php:1759
+#@ woothemes
+msgid "ATTENTION: A possible old version of the TimThumb script was detected in your theme folder. Please remove the following files from your theme as a security precaution"
+msgstr ""
+
+#: functions/admin-interface.php:1800
+#, php-format
+#@ woothemes
+msgid "Theme update is available (v%s). %sDownload new version%s (%sSee Changelog%s)"
+msgstr ""
+
+#: functions/admin-interface.php:1827
+#, php-format
+#@ woothemes
+msgid "WooFramework update is available (v%s). %sDownload new version%s (%sSee Changelog%s)"
+msgstr ""
+
+#: functions/admin-interface.php:1875
+#, php-format
+#@ woothemes
+msgid "An important WooFramework update is available (v%s). %sDownload new version%s (%sSee Changelog%s)"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:333
+#@ woothemes
+msgid "Use this Image"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:334
+#, php-format
+#@ woothemes
+msgid "Use as %s"
+msgstr ""
+
+#: functions/admin-shortcodes.php:333
+#, php-format
+#@ woothemes
+msgid "%1$s is <strong>deprecated</strong> since version %2$s of the WooFramework! Please upgrade your WordPress to the latest version to use the latest functionality."
+msgstr ""
+
+#: functions/admin-shortcodes.php:442
+#@ woothemes
+msgid "Tweet"
+msgstr ""
+
+#: functions/admin-shortcodes.php:2281
+#@ woothemes
+msgid "Pin It"
+msgstr ""
+
+#: functions/classes/class-wp-app-store-installer.php:227
+#@ default
+msgid "Sorry, we could not reach the WP App Store to setup the auto installer. Please try again later."
+msgstr ""
+
+#: functions/classes/class-wp-app-store-installer.php:228
+#@ default
+msgid "In the meantime, you can check out the WP App Store at <a href=\"http://wpappstore.com/\">http://wpappstore.com/</a>."
+msgstr ""
+
+#: header.php:209
+#@ woothemes
+msgid "0 Comments"
+msgstr ""
+
+#: header.php:209
+#@ woothemes
+msgid "1 Comment"
+msgstr ""
+
+#: header.php:209
+#@ woothemes
+msgid "% Comments"
+msgstr ""
+
+#: homepage-agent.php:152
+#@ woothemes
+msgid "Tickets assigned to me"
+msgstr ""
+
+#: homepage-client.php:141
+#: includes/theme-functions.php:169
+#: includes/theme-options.php:5
+#@ woothemes
+msgid "new"
+msgstr ""
+
+#: homepage-client.php:142
+#: includes/theme-functions.php:170
+#@ woothemes
+msgid "problem"
+msgstr ""
+
+#: homepage-client.php:143
+#: includes/theme-functions.php:171
+#@ woothemes
+msgid "low"
+msgstr ""
+
+#: includes/theme-emails.php:220
+#, php-format
+#@ woothemes
+msgid ""
+"Hi there,\n"
+"\n"
+"A new ticket has been created on your behalf. To view this ticket click the link below:\n"
+"\n"
+"%s\n"
+"\n"
+"Regards,\n"
+"%s"
+msgstr ""
+
+#: includes/theme-options.php:4
+#@ woothemes
+msgid "open"
+msgstr ""
+
+#: includes/theme-options.php:6
+#@ woothemes
+msgid "pending"
+msgstr ""
+
+#: includes/theme-options.php:7
+#@ woothemes
+msgid "resolved"
+msgstr ""
+
+#: includes/theme-options.php:80
+#@ woothemes
+msgid "Members Only"
+msgstr ""
+
+#: includes/theme-options.php:81
+#@ woothemes
+msgid "Activate to only allow members to view the site, anyone else will be redirected to the login page."
+msgstr ""
+
+#: includes/theme-options.php:86
+#@ woothemes
+msgid "Prevent Admin Access"
+msgstr ""
+
+#: includes/theme-options.php:87
+#@ woothemes
+msgid "Activate to prevent client users from accessing admin (redirects them to the main site)"
+msgstr ""
+
+#: includes/theme-options.php:92
+#@ woothemes
+msgid "Custom Logo"
+msgstr ""
+
+#: includes/theme-options.php:93
+#@ woothemes
+msgid "Upload a logo for your theme or specify an image URL directly."
+msgstr ""
+
+#: includes/theme-options.php:98
+#@ woothemes
+msgid "Text Title"
+msgstr ""
+
+#: includes/theme-options.php:99
+#, php-format
+#@ woothemes
+msgid "Enable text-based Site Title and Tagline. Setup title & tagline in %1$s."
+msgstr ""
+
+#: includes/theme-options.php:105
+#@ woothemes
+msgid "Site Title Typography"
+msgstr ""
+
+#: includes/theme-options.php:106
+#@ woothemes
+msgid "Change the site title typography"
+msgstr ""
+
+#: includes/theme-options.php:112
+#@ woothemes
+msgid "Site Description"
+msgstr ""
+
+#: includes/theme-options.php:113
+#@ woothemes
+msgid "Enable the site description / tagline under the site title"
+msgstr ""
+
+#: includes/theme-options.php:119
+#@ woothemes
+msgid "Site Description Typography"
+msgstr ""
+
+#: includes/theme-options.php:120
+#@ woothemes
+msgid "Change the site description typography"
+msgstr ""
+
+#: includes/theme-options.php:126
+#@ woothemes
+msgid "Custom Favicon"
+msgstr ""
+
+#: includes/theme-options.php:127
+#, php-format
+#@ woothemes
+msgid "Upload a 16px x 16px %1$s that will represent your website's favicon."
+msgstr ""
+
+#: includes/theme-options.php:127
+#@ woothemes
+msgid "ico image"
+msgstr ""
+
+#: includes/theme-options.php:133
+#@ woothemes
+msgid "Paste your Google analytics (or other) tracking code here. This will be added into the footer template of your theme"
+msgstr ""
+
+#: includes/theme-options.php:138
+#@ woothemes
+msgid "RSS URL"
+msgstr ""
+
+#: includes/theme-options.php:139
+#@ woothemes
+msgid "Enter your preferred RSS URL. (Feedburner or other)"
+msgstr ""
+
+#: includes/theme-options.php:144
+#@ woothemes
+msgid "Email Subscription URL"
+msgstr ""
+
+#: includes/theme-options.php:145
+#@ woothemes
+msgid "Enter your preferred email subscription URL"
+msgstr ""
+
+#: includes/theme-options.php:150
+#@ woothemes
+msgid "Contact Form Email"
+msgstr ""
+
+#: includes/theme-options.php:151
+#@ woothemes
+msgid "Enter your email address to use the Contact Form Page Template. Add the contact form by adding a new page and selecting \"Contact Form\" as page template."
+msgstr ""
+
+#: includes/theme-options.php:156
+#@ woothemes
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/theme-options.php:157
+#@ woothemes
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: includes/theme-options.php:162
+#@ woothemes
+msgid "Post / Page Comments"
+msgstr ""
+
+#: includes/theme-options.php:163
+#@ woothemes
+msgid "Select if you want to enable / disable comments on posts and / or pages."
+msgstr ""
+
+#: includes/theme-options.php:168
+#@ woothemes
+msgid "Post Content"
+msgstr ""
+
+#: includes/theme-options.php:169
+#@ woothemes
+msgid "Select if you want to show the full content for the excerpt on posts."
+msgstr ""
+
+#: includes/theme-options.php:177
+#@ woothemes
+msgid "Guest Homepage"
+msgstr ""
+
+#: includes/theme-options.php:181
+#@ woothemes
+msgid "Homepage Notice"
+msgstr ""
+
+#: includes/theme-options.php:182
+#@ woothemes
+msgid "This text will appear on the guest homepage in a yellow notice box"
+msgstr ""
+
+#: includes/theme-options.php:187
+#@ woothemes
+msgid "Enable sign up form on guest homepage"
+msgstr ""
+
+#: includes/theme-options.php:188
+#@ woothemes
+msgid "Activate to show the signup form on the guest homepage."
+msgstr ""
+
+#: includes/theme-options.php:194
+#@ woothemes
+msgid "Show terms checkbox on signup form"
+msgstr ""
+
+#: includes/theme-options.php:195
+#@ woothemes
+msgid "Activate to show a terms checkbox on the guest homepage signup form. Set up the terms page below."
+msgstr ""
+
+#: includes/theme-options.php:201
+#@ woothemes
+msgid "Terms Page"
+msgstr ""
+
+#: includes/theme-options.php:202
+#@ woothemes
+msgid "Select the terms page"
+msgstr ""
+
+#: includes/theme-options.php:211
+#@ woothemes
+msgid "Page Setup"
+msgstr ""
+
+#: includes/theme-options.php:215
+#@ woothemes
+msgid "New Ticket Page"
+msgstr ""
+
+#: includes/theme-options.php:216
+#@ woothemes
+msgid "Select the new ticket page."
+msgstr ""
+
+#: includes/theme-options.php:222
+#@ woothemes
+msgid "New Message Page"
+msgstr ""
+
+#: includes/theme-options.php:223
+#@ woothemes
+msgid "Select the new message page."
+msgstr ""
+
+#: includes/theme-options.php:229
+#@ woothemes
+msgid "Staff Page"
+msgstr ""
+
+#: includes/theme-options.php:230
+#@ woothemes
+msgid "Select the staff page."
+msgstr ""
+
+#: includes/theme-options.php:236
+#@ woothemes
+msgid "Profile Page"
+msgstr ""
+
+#: includes/theme-options.php:237
+#@ woothemes
+msgid "Select the profile page."
+msgstr ""
+
+#: includes/theme-options.php:243
+#@ woothemes
+msgid "Blog Page"
+msgstr ""
+
+#: includes/theme-options.php:244
+#@ woothemes
+msgid "Select the blog page, or choose \"none\" to disable the link on the nav bar / the blog notice"
+msgstr ""
+
+#: includes/theme-options.php:252
+#@ woothemes
+msgid "Layout Options"
+msgstr ""
+
+#: includes/theme-options.php:257
+#@ woothemes
+msgid "Main Layout"
+msgstr ""
+
+#: includes/theme-options.php:258
+#@ woothemes
+msgid "Select which layout you want for your site."
+msgstr ""
+
+#: includes/theme-options.php:268
+#@ woothemes
+msgid "Header Customization"
+msgstr ""
+
+#: includes/theme-options.php:272
+#@ woothemes
+msgid "Enable Top Navigation?"
+msgstr ""
+
+#: includes/theme-options.php:273
+#@ woothemes
+msgid "Activate to show a navigation bar on the top of the header."
+msgstr ""
+
+#: includes/theme-options.php:279
+#@ woothemes
+msgid "Footer Customization"
+msgstr ""
+
+#: includes/theme-options.php:284
+#@ woothemes
+msgid "Custom Affiliate Link"
+msgstr ""
+
+#: includes/theme-options.php:285
+#@ woothemes
+msgid "Add an affiliate link to the WooThemes logo in the footer of the theme."
+msgstr ""
+
+#: includes/theme-options.php:290
+#@ woothemes
+msgid "Enable Custom Footer (Left)"
+msgstr ""
+
+#: includes/theme-options.php:291
+#: includes/theme-options.php:303
+#@ woothemes
+msgid "Activate to add the custom text below to the theme footer."
+msgstr ""
+
+#: includes/theme-options.php:296
+#@ woothemes
+msgid "Custom Text (Left)"
+msgstr ""
+
+#: includes/theme-options.php:297
+#: includes/theme-options.php:309
+#@ woothemes
+msgid "Custom HTML and Text that will appear in the footer of your theme"
+msgstr ""
+
+#: includes/theme-options.php:302
+#@ woothemes
+msgid "Enable Custom Footer (Right)"
+msgstr ""
+
+#: includes/theme-options.php:308
+#@ woothemes
+msgid "Custom Text (Right)"
+msgstr ""
+
+#: includes/theme-users.php:158
+#@ woothemes
+msgid "Agent setup"
+msgstr ""
+
+#: includes/theme-users.php:163
+#@ default
+msgid "Secret agent?"
+msgstr ""
+
+#: includes/theme-users.php:167
+#@ woothemes
+msgid "Enable this option to hide this agent from the front-end forms."
+msgstr ""
+
+#: includes/widgets/widget-woo-agents.php:30
+#@ woothemes
+msgid " Last update:"
+msgstr ""
+
+#: template-new-ticket.php:69
+#@ woothemes
+msgid "Knowledgebase articles that may be useful&hellip;"
+msgstr ""
+

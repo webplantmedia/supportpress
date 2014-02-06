@@ -1,0 +1,370 @@
+/*		Tablet Layout: 768px.
+		Gutters: 24px.
+		Outer margins: 28px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+	body {
+		font-size:1.4em;
+	}
+	
+	#wrapper {
+		width: 712px;
+		padding: 0 28px;
+		
+		#content, #footer {
+			width:526px;
+		}
+		
+		#content.full-width, #footer.full-width {
+			width:710px;
+		}
+		
+		#sidebar {
+			width:160px;
+		}
+		
+		#header {
+			.top {
+				overflow: visible;
+			}
+		}
+		
+		.new-ticket-form, .milestone-form, .settings-form, .edit-profile-form, .ticket-update {
+			.input-text {
+				width:97%;
+			}
+		}
+	}
+	
+	.post-type-archive-knowledgebase {
+		.knowledgebase-search {
+			label {
+				input {
+					width:94%;
+				}
+			}
+		}
+	}
+}
+
+
+
+/*		Mobile Layout: 320px.
+		Gutters: 24px.
+		Outer margins: 34px.
+		Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+
+@media only screen and (max-width: 767px) {
+	
+	body {
+		font-size:1.2em;
+	}
+	
+	#wrapper {
+		width: 300px;
+		padding: 0 10px;
+		
+		#content, #footer {
+			width:300px;
+		}
+		
+		#content.full-width, #footer.full-width {
+			width:300px;
+		}
+		
+		#sidebar {
+			width:302px;
+		}
+		
+		#header {
+			.top {
+				ul {
+					display:none;
+				}
+			}
+			
+			
+			
+			#logo {
+				width:300px;
+				margin:.75em auto 0;
+				float: none;
+				display: block;
+				
+				img {
+					margin:0 auto;
+				}
+			}
+			
+			#main-nav {
+				width:298px;
+				text-align:center; 
+				
+				select {
+					width:90%;
+					margin:1em auto;
+				}
+				
+				ul {
+					display:none;
+				}
+				
+				li {
+					float: none;
+					border:0;
+					
+					a {
+						display: block;
+						border-right:0;
+						border-bottom:1px solid @color3 - #333;
+						
+						span {
+							padding-left:21px;
+							background-position: 0 0;
+						}
+					}
+					
+					a:hover {
+						border-bottom:1px solid @color3 - #333;
+						padding-bottom:7px;	
+					}
+				}
+				
+				li.parent {
+					a:hover {
+						padding-bottom:5px;
+					}
+					
+					ul {
+						width:100%;
+						top:30px;
+						
+						li {
+							a {
+								border-bottom:1px solid @color3 - #222;
+							}
+							a:hover {
+								border-bottom:0;
+								padding-bottom:7px;	
+							}
+						}
+					}
+				}
+				
+				li.new-ticket {
+					a {
+						border:0;
+						.border_radius_right(0);
+						.border_radius_bottom();
+						width:auto;
+						text-align: left;
+						padding-left:14px;
+					}
+				}
+			}
+			
+			.logged-in {
+				margin:1em auto 0;
+				float: none;
+			}
+			
+			.login-form {
+				float:none;
+				margin:1em auto 0;
+			}
+		}
+		
+		.col2-set {
+			.col-1, .col-2 {
+				float: none;
+				width:100%;
+			}
+		}
+		
+		.knowledgebase-search {
+			label {		
+				input {
+					width:85%;
+					background-position: 92% 13px;
+				}
+			}
+		}
+		
+		#footer {
+			p {
+				text-align: center;
+			}
+			
+			.credit {
+				text-align: center;
+				
+				p {
+					padding-top:0;
+				}
+			}
+		}
+		
+		.new-ticket-form, .milestone-form, .settings-form, .edit-profile-form, .ticket-update {
+			.input-text {
+				width:90%;
+			}
+			
+			.col-1, .col-2 {
+				float: none;
+				width:100%;
+			}
+		}
+		
+		.edit-profile-form .new-password  {
+			input.second {
+				float: none;
+			}
+			
+			small {
+				float: none;
+				width:99%;
+			}
+		}
+				
+		table.items {
+			.type, .assigned, .age {
+				display:none;
+			}
+		}
+		
+		dl.details {
+			dt.odd, dt.even {
+				width:50%;
+				clear:left;
+			}
+			
+			dd {
+				width:50%;
+				float:right;
+			}
+		}
+		
+		p.actions {
+			float:none;
+			text-align:left;
+			border-bottom:1px solid @color1;
+			padding-bottom:.75em;
+			margin-bottom:.75em;
+			
+			a {
+				float:none;
+				padding:0;
+				border:0;
+				background: none;
+				-webkit-box-shadow:0 0 0 rgba(0,0,0,0);
+				-moz-box-shadow:0 0 0 rgba(0,0,0,0);
+				box-shadow:0 0 0 rgba(0,0,0,0);
+				
+				&:hover {
+					padding:0;
+					background: none;
+				}
+			}
+		}
+	}
+	
+	ul.updates {
+		li.first, li.last {
+			width:100%;
+			float:none;
+		}
+	}
+	
+	.bio {
+		img.avatar {
+			float: none;
+			width:90%;
+			margin:0;
+		}
+	}
+}
+
+
+
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	body {
+		font-size:1.2em;
+	}
+	
+	#wrapper {
+		width: 436px;
+		padding: 0 22px;
+		
+		#content, #footer {
+			width:250px;
+		}
+		
+		#content.full-width, #footer.full-width  {
+			width:434px;
+		}
+		
+		#sidebar {
+			width:160px;
+		}
+		
+		#header {
+			.top {
+				width:436px;
+				
+				ul {
+					width:434px;
+				}
+			}
+			
+			#logo {
+				width:252px;
+				text-align: center;
+				
+				img {
+					width:252px;
+				}
+			}
+			
+			#main-nav {
+				width:434px;
+				
+				ul {
+					display:none;
+				}
+			}
+		}
+		.knowledgebase-search {
+			
+			label {		
+				input {
+					width:87%;
+					background-position: 95% 13px;
+				}
+			}
+		}
+		
+		.new-ticket-form, .milestone-form, .settings-form, .edit-profile-form, .ticket-update {
+			.input-text {
+				width:96%;
+			}
+		}
+	}
+	
+}

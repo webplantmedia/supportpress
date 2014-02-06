@@ -1,0 +1,189 @@
+*** SupportPress Changelog ***
+
+2013.12.06 - version 1.0.41
+ * Fix - escape data posted in signup form
+   homepage-guest.php
+
+2013.10.15 - version 1.0.40
+ * includes/theme-functions.php - Removes warning when using 'Anybody' as assigned user.
+ * single-ticket-comments - Fixes 'strict standards' warning in single ticket comments.
+
+2013.08.02 - version 1.0.39
+ * includes/js/plugins.js - Updates and minified blockUI jQuery plugin.
+
+2013.07.24 - version 1.0.38
+ * includes/theme-custom-post-types.php - Post Type menu names now translatable.
+
+2013.07.03 - version 1.0.37
+ * includes/theme-custom-post-types.php - Icons are called using get_template_directory_uri() for child theme compatibility.
+
+2013.06.03 - version 1.0.36
+ * includes/theme-options.php - Removed redundant WooSEO code.
+ * header.php - Uses home_url() to get the home URL.
+
+2013.03.11 - version 1.0.35
+ * styles/default.css - Added to remove 404 warning.
+
+2013.02.26 - version 1.0.34
+ * includes/theme-emails.php - removed further extraneous email addresses
+
+2013.01.14 - version 1.0.33
+ * css/style.css
+   css/login.css
+   css/plugins.css - fixed a few css niggles
+ * includes/theme-emails.php - removed extraneous email address
+
+2012.12.18 - version 1.0.32
+ * includes/theme-users.php - updated $wpdb->prepare usage
+ * includes/theme-custom-post-types.php - fixed post type icons in WordPress 3.5
+ * includes/theme-options.php - Gettext all theme options.
+ * lang/en_GB.po - Rescan language translation file.
+
+2012.10.02 - version 1.0.31
+ * another nl2br fix for gforms
+
+2012.09.03 - version 1.0.30
+ * functions.php - Optimized to work with child themes.
+ * Sitename missing from some email functions
+ * nl2br fix for gforms
+
+2012.08.06 - version 1.0.29
+ * includes/theme-users.php - Changed translation textdomain from "frontendprofile" to "woothemes".
+
+2012.07.26 - version 1.0.28
+ * includes/theme-functions.php - woo_supportpress_post_types_init() now pluggable
+
+2012.07.12 - version 1.0.27
+ * single-message.php - Added attachment list
+
+2012.06.22 - version 1.0.26
+ * theme-functions.php - Fix sort by links
+ * css/style.css
+   css/style.less - Tweaked list styles
+
+2012.06.12 - version 1.0.25
+ * includes/theme-js.php - now loading wp jquery
+ * includes/js/general.js
+   includes/js/plugins.js
+   css/mobile.less
+   css/style.less
+   css/style.css - Better menu handling on mobile devices
+
+2012.05.05 - version 1.0.24
+ * template-staff.php - Check roles is set
+
+2012.04.13 - version 1.0.23
+ * includes/theme-actions.php - tweaked transient clear code
+ * template-new-ticket.php - search_kb fix
+ * homepage-guest.php - search_kb fix
+ * homepage-client.php - search_kb fix
+
+2012.02.26 - version 1.0.22
+ * archive-knowledgebase.php - knowledgebase search IE9 fix
+
+2012.02.22 - version 1.0.21
+ * includes/theme-functions.php - knowledgebase search pagination fix
+
+2012.02.19 - version 1.0.20
+ * includes/widgets/widget-woo-agents.php - Fixed last update time
+
+2012.01.24 - version 1.0.19
+ * includes/theme-comments.php - wp_kses_data for comment content
+ * includes/theme-emails.php - nl2br for email content
+ * header.php
+   includes/theme-login.php
+   includes/js/general.js - Using wp_ajax for login
+
+2012.01.03 - version 1.0.18
+ * includes/theme-comments.php - Fixed 'No updates yet' by adding last_update meta field
+
+2011.11.25 - version 1.0.17
+ * css/style.css Several IE7 fixes
+
+2011.11.02 - version 1.0.16
+ * Changed meta tag to enable better transition between portrait / landscape views on iOS devices
+
+2011.10.07 - version 1.0.15
+ * includes/theme-functions.php - rewrote sprintf function
+
+2011.09.24 - version 1.0.14
+ * includes/theme-functions.php - fixed sprintf function
+
+2011.09.15 - version 1.0.13
+ * includes/theme-functions.php - fixed KB search
+
+2011.09.15 - version 1.0.12
+ * mobile.less - Improved layout on profile / edit profile pages
+ * includes/theme-comments.php - Using current_time('timestamp') instead of NOW
+ * template-new-ticket.php
+   template-ticket-comments.php
+   includes/theme-users.php
+   includes/theme-functions.php - Added 'secret agent' user meta for hiding agents from the front-end forms
+ * includes/theme-emails.php - email admin on ticket update if no-one is assigned
+ * theme-emails.php - email owner if ticket created on their behalf
+ * header.php - home_url for login form
+ * includes/theme-functions.php - Took out the code to remove the admin bar - woo framework has an option for this.
+ * includes/theme-options.php
+   includes/theme-functions.php - Option to prevent clients accessing the admin backend
+
+2011.09.12 - version 1.0.11
+ * homepage-agent.php - typo
+ * template-new-ticket.php - small error with ticket owner
+ * theme-comments.php - added is-agent class to agent comments
+ * mobile.less - changed padding on iPhone stylesheet to give the layout more room for content
+ * style.less/.css - added styles for inline imagery in posts which ensures they don't break the layout on mobile devices. Also lots of layout fixes for the ticket page when viewed in iPhone portrait orientation.
+ * theme-users.php - made the 'author' of a ticket watch it, so when an admin created a ticket for a client, the client watches it
+
+2011.09.02 - version 1.0.10
+ * includes/theme-comments.php - fixed 'type' when N/A
+
+2011.08.20 - version 1.0.9
+ * includes/theme-functions.php - updated woo_supportpress_get_support_staff to use core WP functions
+ * css/login.css - removed links to non-existent files
+ * archive.php - fixed the query so it works with categories
+
+2011.08.05 - version 1.0.8
+ * template-new-ticket.php - Types ordered by title
+ * header.php - localisation
+ * sidebar-ticket.php - made get_terms use constant
+
+2011.08.01 - version 1.0.7
+ * css/style.css - Fixed broken tag cloud and styled centrally aligned images for blog posts / messages
+ * theme-functions.phph - Added ajax functions for search using hooks
+ * template-new-ticket.php - Added KB search to title field
+ * homepage-client/guest/agent - Improved ajax functions
+ * homepage-guest - added hooks to register function
+
+2011.07.23 - version 1.0.6
+ * /includes/theme-options.php - Added logic to update options template DB field, as well as performance optimization snippet on theme options template update.
+ * /includes/theme-options.php - Removed unused Invalid status
+ * Styled tipsy to be a little wider
+
+2011.07.18 - 1.0.5
+ * includes/theme-functions.php - new hook/function for sorting terms by description
+ * includes/theme-options.php - removed unused settings
+ * includes/theme-login.php - use custom logo for login
+ * includes/theme-options.php - fixed hidden options
+ * includes/theme-actions.php - narrowed down logo css rules so they take effect
+ * includes/theme-options.php - added constants for ticket status slugs to aid translation
+
+2011.07.12 - 1.0.4
+ * Updated localisation
+
+2011.07.11 - 1.0.3
+ * Made favicon option work
+ * Disabled new comment notifications
+
+2011.07.11 - 1.0.2
+ * Removed a stray faultpress_redirect_login
+ * Enabled typography settings for site title
+ * KB category hierarchy support
+
+2011.07.06 - 1.0.1
+ * Fixed login screen css glitch
+ * removed unused Theme Stylesheet option
+ * Fixed ajax KB search
+ * signup display fixed
+
+2011.07.06 - version 1.0
+ * First release!
